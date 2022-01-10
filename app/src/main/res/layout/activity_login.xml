@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorWhite"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/mp_10"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/lms_launching_icon"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimary"
+        android:text="Phone Loan Agent"
+        android:layout_marginTop="@dimen/mp_5"
+
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/mp_15"
+        android:layout_marginTop="@dimen/mp_20"
+        android:layout_marginRight="@dimen/mp_15"
+        android:orientation="vertical">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:hint="@string/phone_no_placeholder"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:boxCornerRadiusBottomEnd="@dimen/mp_12"
+            app:boxCornerRadiusBottomStart="@dimen/mp_12"
+            app:boxCornerRadiusTopEnd="@dimen/mp_12"
+            app:boxCornerRadiusTopStart="@dimen/mp_12"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/userMobileNo"
+                android:inputType="phone"
+                android:maxLength="11"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:hint="Password "
+            app:passwordToggleEnabled="true"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:boxCornerRadiusBottomEnd="@dimen/mp_12"
+            app:boxCornerRadiusBottomStart="@dimen/mp_12"
+            app:boxCornerRadiusTopEnd="@dimen/mp_12"
+            app:boxCornerRadiusTopStart="@dimen/mp_12"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/userPin"
+                android:inputType="textPassword"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/mp_20"
+        android:layout_marginTop="@dimen/mp_20"
+        android:layout_marginRight="@dimen/mp_20"
+        android:layout_marginBottom="@dimen/mp_10"
+        android:fadingEdgeLength="@dimen/mp_10"
+        android:fadingEdge="vertical"
+        android:elevation="@dimen/mp_10"
+        android:background="@drawable/red_button_design_rounderdcorners"
+        android:text="Continue"
+        android:textStyle="normal"
+        android:textSize="16sp"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/dontAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don't have an account?"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/signUpAccount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:onClick="startCreateAccount"
+            android:text="Sign Up"
+            android:textColor="@color/colorred"
+            android:textSize="18sp"
+            app:layout_constraintStart_toEndOf="@+id/dontAccount"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

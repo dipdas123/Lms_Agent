@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="text_max">30sp</dimen>
+    <dimen name="mp_10">10dp</dimen>
+    <dimen name="mp_5">5dp</dimen>
+
+    <dimen name="mp_3">3dp</dimen>
+    <dimen name="mp_15">15dp</dimen>
+    <dimen name="mp_12">12dp</dimen>
+    <dimen name="mp_20">20dp</dimen>
+    <dimen name="mp_max">30dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_padding_bottom">16dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">8sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">8sp</dimen>
+
+    <!--Latest Design-->
+    <dimen name="button_corner_radius">20dp</dimen>
+    <dimen name="button_pressed_z_material">2dp</dimen>
+</resources>

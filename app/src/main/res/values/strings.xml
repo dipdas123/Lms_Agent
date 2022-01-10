@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Phone Loan Agent</string>
+    <string name="lms_app_name">Loan Management System</string>
+    <string name="get_to_start">Select EMI plan</string>
+    <string name="loan_status">Loan Status</string>
+    <string name="pay_installment">Pay Installment</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="national_id">National ID</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="image_desc">image desc</string>
+    <string name="apply_for_loan_btn">Apply for loan</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="Nominee_national_id">Designated Person\'s NID</string>
+    <string name="Nominee_phone_number">Designated Person\'s Phone Number</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nominee_info">Secondary Contact Person\'s Info</string>
+    <string name="loan_holder">Loan Holder</string>
+
+    <string name="TandC"><![CDATA[DEVICE FINANCING PROGRAM:\n\nGENERAL TERMS & CONDITIONS\nThis Device Financing Program (the “Financing Program”) is between Robi Axiata Limited (“Robi”) and you, the customer named in the form named below taking this offer. This Financing Program governs the payment of your purchase of a device (a “Device”) over time through an equal monthly instalment (“EMI”) payments plan.
+FINANCING PROGRAM The Device is being provided to you on credit under the Financing Program. You are starting the program by paying the down payment amount (“Down Payment”). EMI payment shall be payable by you to Robi for the Device, after 30 days from the date of Device delivery and every month thereafter on the same calendar day for the duration of your Financing Program. Each monthly EMI payment for the Device under the Financing Program must be made by you through the Phone Loan App using third-party mobile financial services (MFS), such as bKash or Nagad. It is one of the material obligation of this Financing Program for you to connect to the internet using your mobile data at least once in every week during the Financing Program. In order to participate in the Financing Program for the Device, you must register on the Phone Loan application (“Phone Loan App”) by filling in all the required information in the Phone Loan App.\n\n
+PERIODIC STATEMENT Robi will notify you the payment schedule via SMS each month showing the payment that is due under this Financing Program for the respective month. Upon final payment of all amounts due under this Financing Program, we will deliver to you a final SMS indicating such final payment. You will also be able to check your due amount and payment status through Phone Loan App.\n\n
+LIABILITY FOR USAGE AND RISK OF LOSS You are solely responsible and liable for any usage of the Device. Robi shall not, under any circumstances, be held liable for any unauthorized, morally reprehensible and/or illegal usage of the Device. You bear the entire risk of loss, theft or damage to the Device from any cause during the entire term of this Financing Program. Even if the Device is lost, stolen or damaged, you remain obligated for any outstanding payments due under this Financing Program. \n\n
+DEFAULT You will be in default of this Financing Program if any one of the following events (referred to as an “event of default”) occurs:
+a. You fail to make any payment required under this Financing Program within five (5) calendar days of the applicable due date;
+b. You are in breach of any covenant, representation or warranty in this Financing Program;
+c. You are in default in the performance of any other obligation in this Financing Program and such default continues for ten (10) calendar days after Robi provides you with notice of the default; or
+d. You will not be allowed for MNP during the Financing Program period.\n\n
+REMEDIES IN THE EVENT OF DEFAULT Upon an event of default, we have the right to exercise any one or more of the following remedies:
+a. Disable the Device temporarily or permanently;
+b. Require you to immediately pay us the sum of the remaining unpaid amount financed; and
+c. Require you to pay Robi the actual and reasonable costs of collection, including reasonable dishonored cheque charges, attorney fees, court costs, and disbursements.
+d. Initiate legal action\n\n
+WARRANTY Standard warranty will be provided by original manufacturer and/or authorized distributor of Device. Robi shall not be responsible and/or liable for providing any warranty/guarantee for Device, or for acts/defaults of original manufacturer and/or authorized distributor.
+REFUND POLICY You will not be entitled to exchange or return the Device or claim any refund once order is submitted. You will ONLY be entitled to get refund of any Down Payment made by you, if Robi cancels your Device order for any reason. In case you paid Down Payment using MFS wallet, refunds will be made to such MFS wallet through fund transfer. It will take maximum 15 days for the refund to be adjusted through MFS fund transfer. However, if the refund does not arrive within 15 days, please contact your MFS wallet issuing party directly for support. Please note that if you paid your Down Payment through cash, there will be no cash refund for any cash transaction, and in such cases, we will provide vouchers equivalent to the Down Payment amount, which you will have to utilize for purchasing any other product/service from Robishop within 5 working days of receipt of such voucher.\n\n
+
+INDEMNITY You are responsible for any and all liabilities, losses or damages, whether imposed on you or Robi, which are directly attributable to you or any of your acts or omissions during the time the Device is in your possession.  This provision shall survive the termination of this Financing Program.  To the extent permitted by law, you will reimburse us for any expenses we incur in connection with the defense of any claim or action you are responsible for under this Financing Program.  This includes, but is not limited to, actual and reasonable attorney fees.\n\n
+CANCELLATION OF FINANCING PROGRAM If, for any reason, this Financing Program is terminated prior to the end of your Financing Program, you must repay your outstanding balance upon termination of this Financing Program. Otherwise, this Financing Program will end on the expiry date of Financing Program set out above subject to full repayment by you. To the extent permitted by applicable law and after providing you with any required notice, we may terminate this Financing Program if you breach its terms, including for non-payment of your charges. \n\n
+REPRESENTATIONS You represent that all information provided in this Financing Program by you are accurate. You have carefully read and understood all the terms of this Financing Program and agree to be bound by all terms of this Financing Program. You represent that you have the authority to enter into this Financing Program and that your performance of obligations under this Financing Program will not violate or infringe upon the rights of any third party or violate any other agreements.\n\n
+GOVERNING LAW This Financing Program is governed exclusively by the laws of Bangladesh and the courts of Bangladesh shall have jurisdiction to adjudicate any dispute under the Financing Program. \n\n
+GENERAL This Financing Program, as amended from time to time, constitutes the entire agreement between you and Robi for the financing of your Device purchase, and supersedes all prior agreements, written or oral, with respect to the same subject matter. I hereby consent to Robi collecting, storing and utilizing any data provided by me, for the purposes of providing me with related telecommunication products/services.  Robi’s failure to enforce strict performance of any provision of this Financing Program does not mean Robi has waived any provision or right. Neither the course of conduct between us nor trade practice modifies any provision of this Financing Program. This Financing Program enures to the benefit of and is binding on you, your heirs and your legal personal representatives and on your and Robi’s respective successors and assigns. You may not assign or transfer this Financing Program without Robi’s prior written consent. Robi may assign or transfer this Financing Program or any of Robi’s rights or obligations hereunder without your consent.
+]]></string>
+
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="bold1"><![CDATA[DEVICE FINANCING PROGRAM: GENERAL TERMS & CONDITIONS]]></string>
+    <string name="bold2"><![CDATA[FINANCING PROGRAM]]></string>
+    <string name="bold3"><![CDATA[PERIODIC STATEMENT]]></string>
+    <string name="bold4"><![CDATA[LIABILITY FOR USAGE AND RISK OF LOSS]]></string>
+    <string name="bold5"><![CDATA[DEFAULT]]></string>
+    <string name="bold6"><![CDATA[REMEDIES IN THE EVENT OF DEFAULT]]></string>
+    <string name="bold7"><![CDATA[WARRANTY]]></string>
+    <string name="bold8"><![CDATA[REFUND POLICY]]></string>
+    <string name="bold9"><![CDATA[INDEMNITY]]></string>
+    <string name="bold10"><![CDATA[CANCELLATION OF FINANCING PROGRAM]]></string>
+    <string name="bold11"><![CDATA[REPRESENTATIONS]]></string>
+    <string name="bold12"><![CDATA[GOVERNING LAW]]></string>
+    <string name="bold13"><![CDATA[GENERAL]]></string>
+
+    <string name="text1">This Device Financing Program (the “Financing Program”) is between Robi Axiata Limited (“Robi”) and you, the customer named in the form named below taking this offer. This Financing Program governs the payment of your purchase of a device (a “Device”) over time through an equal monthly instalment (“EMI”) payments plan.</string>
+    <string name="text2">The Device is being provided to you on credit under the Financing Program. You are starting the program by paying the down payment amount (“Down Payment”). EMI payment shall be payable by you to Robi for the Device, after 30 days from the date of Device delivery and every month thereafter on the same calendar day for the duration of your Financing Program. Each monthly EMI payment for the Device under the Financing Program must be made by you through the Phone Loan App using third-party mobile financial services (MFS), such as bKash or Nagad. It is one of the material obligation of this Financing Program for you to connect to the internet using your mobile data at least once in every week during the Financing Program. In order to participate in the Financing Program for the Device, you must register on the Phone Loan application (“Phone Loan App”) by filling in all the required information in the Phone Loan App.</string>
+    <string name="text3">Robi will notify you the payment schedule via SMS each month showing the payment that is due under this Financing Program for the respective month. Upon final payment of all amounts due under this Financing Program, we will deliver to you a final SMS indicating such final payment. You will also be able to check your due amount and payment status through Phone Loan App.</string>
+    <string name="text4">You are solely responsible and liable for any usage of the Device. Robi shall not, under any circumstances, be held liable for any unauthorized, morally reprehensible and/or illegal usage of the Device. You bear the entire risk of loss, theft or damage to the Device from any cause during the entire term of this Financing Program. Even if the Device is lost, stolen or damaged, you remain obligated for any outstanding payments due under this Financing Program. </string>
+    <string name="text5">You will be in default of this Financing Program if any one of the following events (referred to as an “event of default”) occurs:
+\na. You fail to make any payment required under this Financing Program within five (5) calendar days of the applicable due date;
+\nb. You are in breach of any covenant, representation or warranty in this Financing Program;
+\nc. You are in default in the performance of any other obligation in this Financing Program and such default continues for ten (10) calendar days after Robi provides you with notice of the default; or
+\nd. You will not be allowed for MNP during the Financing Program period.</string>
+    <string name="text6">Upon an event of default, we have the right to exercise any one or more of the following remedies:
+\na. Disable the Device temporarily or permanently;
+\nb. Require you to immediately pay us the sum of the remaining unpaid amount financed; and
+\nc. Require you to pay Robi the actual and reasonable costs of collection, including reasonable dishonored cheque charges, attorney fees, court costs, and disbursements.
+\nd. Initiate legal action</string>
+    <string name="text7">Standard warranty will be provided by original manufacturer and/or authorized distributor of Device. Robi shall not be responsible and/or liable for providing any warranty/guarantee for Device, or for acts/defaults of original manufacturer and/or authorized distributor. </string>
+    <string name="text8">You will not be entitled to exchange or return the Device or claim any refund once order is submitted. You will ONLY be entitled to get refund of any Down Payment made by you, if Robi cancels your Device order for any reason. In case you paid Down Payment using MFS wallet, refunds will be made to such MFS wallet through fund transfer. It will take maximum 15 days for the refund to be adjusted through MFS fund transfer. However, if the refund does not arrive within 15 days, please contact your MFS wallet issuing party directly for support. Please note that if you paid your Down Payment through cash, there will be no cash refund for any cash transaction, and in such cases, we will provide vouchers equivalent to the Down Payment amount, which you will have to utilize for purchasing any other product/service from Robishop within 5 working days of receipt of such voucher.</string>
+    <string name="text9">You are responsible for any and all liabilities, losses or damages, whether imposed on you or Robi, which are directly attributable to you or any of your acts or omissions during the time the Device is in your possession.  This provision shall survive the termination of this Financing Program.  To the extent permitted by law, you will reimburse us for any expenses we incur in connection with the defense of any claim or action you are responsible for under this Financing Program.  This includes, but is not limited to, actual and reasonable attorney fees.</string>
+    <string name="text10">If, for any reason, this Financing Program is terminated prior to the end of your Financing Program, you must repay your outstanding balance upon termination of this Financing Program. Otherwise, this Financing Program will end on the expiry date of Financing Program set out above subject to full repayment by you. To the extent permitted by applicable law and after providing you with any required notice, we may terminate this Financing Program if you breach its terms, including for non-payment of your charges. </string>
+    <string name="text11">You represent that all information provided in this Financing Program by you are accurate. You have carefully read and understood all the terms of this Financing Program and agree to be bound by all terms of this Financing Program. You represent that you have the authority to enter into this Financing Program and that your performance of obligations under this Financing Program will not violate or infringe upon the rights of any third party or violate any other agreements.</string>
+    <string name="text12">This Financing Program is governed exclusively by the laws of Bangladesh and the courts of Bangladesh shall have jurisdiction to adjudicate any dispute under the Financing Program.</string>
+    <string name="text13">This Financing Program, as amended from time to time, constitutes the entire agreement between you and Robi for the financing of your Device purchase, and supersedes all prior agreements, written or oral, with respect to the same subject matter. I hereby consent to Robi collecting, storing and utilizing any data provided by me, for the purposes of providing me with related telecommunication products/services.  Robi’s failure to enforce strict performance of any provision of this Financing Program does not mean Robi has waived any provision or right. Neither the course of conduct between us nor trade practice modifies any provision of this Financing Program. This Financing Program enures to the benefit of and is binding on you, your heirs and your legal personal representatives and on your and Robi’s respective successors and assigns. You may not assign or transfer this Financing Program without Robi’s prior written consent. Robi may assign or transfer this Financing Program or any of Robi’s rights or obligations hereunder without your consent.</string>
+
+
+    <string name="I_have_read">I have read, understood and agreed with the terms and conditions as provided here.</string>
+    <string name="phone_no_placeholder">01xxx-xxxxxx</string>
+    <string name="check_eligibility">Check Eligibility</string>
+    <string name="select_desired_phone">Select desired phone</string>
+    <string name="loan_information_details">Loan Information Details</string>
+    <string name="your_order_has_been_submitted_successfully">Your order has been submitted successfully.</string>
+    <string name="you_will_be_notified_soon_after_verification">You will be notified soon after verification.</string>
+    <string name="down_payment">Down Payment:</string>
+    <string name="loan_amount">Loan Amount:</string>
+    <string name="loan_id">Loan Id:</string>
+    <string name="an_otp_sms">An SMS with OTP has been sent to your number. Please enter OTP here.</string>
+    <string name="get_transaction_history">Get Transaction History</string>
+    <string name="enter_customer_msisdn">Enter Customer MSISDN</string>
+    <string name="enter_loan_id">Enter Loan ID</string>
+    <string name="secondary_contact_person_s_information">Secondary Contact Person\'s Information</string>
+    <string name="secondary_contact_person_s_first_name">Secondary Contact Person\'s First Name</string>
+    <string name="secondary_contact_person_s_last_name">Secondary Contact Person\'s Last Name</string>
+    <string name="secondary_contact_person_s_address">Secondary Contact Person\'s Address</string>
+    <string name="secondary_contact_person_s_post_code">Secondary Contact Person\'s Post Code</string>
+    <string name="secondary_contact_person_s_phone_number">Secondary Contact Person\'s Phone Number</string>
+    <string name="secondary_contact_person_s_nid">Secondary Contact Person\'s NID</string>
+
+</resources>

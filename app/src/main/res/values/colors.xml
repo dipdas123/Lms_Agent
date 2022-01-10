@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#ED1C24</color>
+        <color name="colorPrimaryDark">#851F63</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="green">#00AC4D</color>
+        <color name="magenta">#851F63</color>
+        <color name="red">#ED1C24</color>
+        <color name="lightPink">#FAE4E6</color>
+        <color name="colorTextBorder">#bbbcbcbc</color>
+        <color name="colorBorderBack">#FFFFFF</color>
+        <color name="colorButtonText">#FFFFFF</color>
+        <color name="logo_green">#27C0A2</color>
+        <color name="logo_blue">#3598DC</color>
+        <color name="image_border">#d9d8d8</color>
+        <color name="colorWhite">#FFFFFF</color>
+        <color name="colorImageBorder">#f1f1f1</color>
+
+        <color name="spinnerborder">#A8A8A8</color>
+
+        <color name="colorApplicationBackground">#f0f0f0</color>
+        <color name="colorGray">#B2B2B2</color>
+        <color name="colorSelected">#e9e9e9</color>
+        <color name="colorNotSelected">@android:color/darker_gray</color>
+        <color name="colorblack">#000000</color>
+        <color name="colorred">#E82B37</color>
+        <color name="white_trans">#99FFFFFF</color>
+        <color name="black">#000000</color>
+        <color name="colorcommontext">#5d5d5d</color>
+        <color name="buttonBackground">#3af3ff</color>
+        <color name="textColor2">#242e3a</color>
+        <color name="textColor3">#454F63</color>
+        <color name="textColor4">#78849E</color>
+        <color name="colorPrimary2">#1d252e</color>
+        <color name="textColor">#3af3ff</color>
+        <color name="transparent_20">#65000000</color>
+        <color name="pink">#00AC4D</color>
+        <color name="transparent_59">#96000000</color>
+        <color name="transparent_45">#73000000</color>
+
+        <color name="list_diverder">#aeaeae</color>
+        <color name="textbackground">#dee0e2</color>
+
+
+        <!--new design color-->
+        <color name="colorlightgreay">#dee0e2</color>
+        <color name="button_bg_light">#E82B37</color>
+        <color name="Purple">#851F63</color>
+
+
+        <!-- dots inactive colors -->
+        <color name="dot_dark_screen1">#d1395c</color>
+        <color name="dot_dark_screen2">#14a895</color>
+        <color name="dot_dark_screen3">#2278d4</color>
+        <color name="dot_dark_screen4">#a854d4</color>
+
+        <!-- dots active colors -->
+        <color name="dot_light_screen1">#f98da5</color>
+        <color name="dot_light_screen2">#8cf9eb</color>
+        <color name="dot_light_screen3">#93c6fd</color>
+        <color name="dot_light_screen4">#e4b5fc</color>
+
+        <array name="array_dot_active">
+            <item>@color/dot_light_screen1</item>
+            <item>@color/dot_light_screen1</item>
+            <item>@color/dot_light_screen1</item>
+            <item>@color/dot_light_screen1</item>
+        </array>
+
+        <array name="array_dot_inactive">
+            <item>@color/dot_dark_screen1</item>
+            <item>@color/dot_dark_screen1</item>
+            <item>@color/dot_dark_screen1</item>
+            <item>@color/dot_dark_screen1</item>
+        </array>
+    </resources>
+
+

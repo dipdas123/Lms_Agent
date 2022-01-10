@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    app:cardCornerRadius="8dp"
+    android:layout_margin="8dp"
+    android:layout_width="140dp"
+    android:elevation="@dimen/mp_10"
+    android:fadingEdgeLength="@dimen/mp_10"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_margin="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/productImage"
+            android:scaleType="centerInside"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_width="120dp"
+            android:layout_height="110dp"
+            />
+
+        <ScrollView
+            android:layout_marginBottom="@dimen/mp_10"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/productImage"
+            android:layout_centerHorizontal="true"
+
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                >
+                <TextView
+                    android:id="@+id/productName"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:id="@+id/productPrice"
+                    android:textStyle="italic"
+                    android:textSize="12sp"
+                    android:layout_below="@+id/productName"
+                    android:layout_marginStart="8dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </RelativeLayout>
+        </ScrollView>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

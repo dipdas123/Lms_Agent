@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    android:id="@+id/drawerLayout"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".activities.HomeActivity">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            app:titleTextColor="@color/colorPrimaryDark"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"/>
+
+
+        <androidx.core.widget.NestedScrollView
+            app:layout_constraintTop_toBottomOf="@id/toolbar"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_marginBottom="@dimen/mp_10"
+
+                    >
+                    <TextView
+                        android:id="@+id/tv1"
+                        android:textSize="14sp"
+                        android:textStyle="normal"
+                        android:visibility="gone"
+                        android:text="Loan Status"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:id="@+id/tv2"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:visibility="gone"
+                        android:text=" Fast and Secure"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                </LinearLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:hint="@string/phone_no_placeholder"
+                    android:layout_marginTop="@dimen/mp_max"
+                    android:layout_margin="8dp"
+                    app:boxCornerRadiusBottomEnd="@dimen/mp_12"
+                    app:boxCornerRadiusBottomStart="@dimen/mp_12"
+                    app:boxCornerRadiusTopEnd="@dimen/mp_12"
+                    app:boxCornerRadiusTopStart="@dimen/mp_12"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/userMobileNo"
+                        android:inputType="phone"
+                        android:maxLength="11"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/checkCreadit"
+                    android:text="Check Loan Status"
+                    android:layout_marginTop="@dimen/mp_20"
+                    android:background="@drawable/red_button_design_rounderdcorners"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="15sp"
+                    android:layout_marginBottom="@dimen/mp_20"
+                    android:layout_marginStart="@dimen/mp_max"
+                    android:layout_marginEnd="@dimen/mp_max"
+                    android:textAllCaps="false"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/loanStausLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/mp_10"
+                    android:layout_marginTop="@dimen/mp_10"
+                    android:layout_marginEnd="@dimen/mp_10"
+                    android:layout_marginBottom="@dimen/mp_20"
+                    android:visibility="gone"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="@dimen/mp_5">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:id="@+id/profileImage"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <TextView
+                            android:id="@+id/customerName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/mp_5"
+                            android:text=""
+                            android:textSize="18sp"
+                            android:textStyle="bold"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toBottomOf="@id/profileImage" />
+
+                        <TextView
+                            android:id="@+id/customerMsisdn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/mp_5"
+                            android:drawableStart="@drawable/ic_phone_in_talk_black_24dp"
+                            android:text=""
+                            android:textSize="16sp"
+                            android:textStyle="normal"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toBottomOf="@id/customerName" />
+
+                        <TextView
+                            android:id="@+id/customerLoanIdS"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="16sp"
+                            android:layout_marginTop="@dimen/mp_5"
+                            android:textStyle="normal"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toBottomOf="@id/customerMsisdn"
+
+                            />
+
+                        <LinearLayout
+                            android:id="@+id/loanListLableLinear"
+                            app:layout_constraintTop_toBottomOf="@id/customerLoanIdS"
+                            android:layout_marginTop="@dimen/mp_5"
+                            android:layout_marginBottom="@dimen/mp_5"
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+                            <TextView
+                                android:id="@+id/loan_date"
+                                android:text="Date"
+                                android:layout_marginTop="@dimen/mp_5"
+                                android:layout_marginBottom="@dimen/mp_5"
+                                android:textSize="16sp"
+                                android:gravity="center_horizontal"
+                                android:layout_weight="1"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"/>
+                            <TextView
+                                android:id="@+id/loanDurationMonth"
+                                android:text="Duration Month"
+                                android:layout_marginTop="@dimen/mp_5"
+                                android:layout_marginBottom="@dimen/mp_5"
+                                android:textSize="16sp"
+                                android:gravity="center_horizontal"
+                                android:layout_weight="1"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"/>
+                            <TextView
+                                android:id="@+id/loanDueAmount"
+                                android:text="Due Amount"
+                                android:layout_marginTop="@dimen/mp_5"
+                                android:layout_marginBottom="@dimen/mp_5"
+                                android:textSize="16sp"
+                                android:gravity="center_horizontal"
+                                android:layout_weight="1"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"/>
+                            <TextView
+                                android:id="@+id/loanAmount"
+                                android:text="Loan Amount"
+                                android:layout_marginTop="@dimen/mp_5"
+                                android:layout_marginBottom="@dimen/mp_5"
+                                android:textSize="16sp"
+                                android:gravity="center_horizontal"
+                                android:layout_weight="1"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"/>
+                            <TextView
+                                android:id="@+id/loanEmi"
+                                android:text="EMI"
+                                android:layout_marginTop="@dimen/mp_5"
+                                android:layout_marginBottom="@dimen/mp_5"
+                                android:textSize="16sp"
+                                android:gravity="center_horizontal"
+                                android:layout_weight="1"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"/>
+                        </LinearLayout>
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/loanStatusRecycler"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginTop="@dimen/mp_5"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintTop_toBottomOf="@id/loanListLableLinear" />
+
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>

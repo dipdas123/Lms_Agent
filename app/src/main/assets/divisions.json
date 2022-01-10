@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Rajshahi",
+    "localname": "Rajshahi"
+  },
+  {
+    "id": 2,
+    "name": "Rangpur",
+    "localname": "Rangpur"
+  },
+  {
+    "id": 3,
+    "name": "Mymensingh",
+    "localname": "Mymensingh"
+  },
+  {
+    "id": 4,
+    "name": "Barishal",
+    "localname": "Barishal"
+  },
+  {
+    "id": 5,
+    "name": "Chattogram",
+    "localname": "Chattogram"
+  },
+  {
+    "id": 6,
+    "name": "Sylhet",
+    "localname": "Sylhet"
+  },
+  {
+    "id": 7,
+    "name": "Khulna",
+    "localname": "Khulna"
+  },
+  {
+    "id": 8,
+    "name": "Dhaka",
+    "localname": "Dhaka"
+  }
+]

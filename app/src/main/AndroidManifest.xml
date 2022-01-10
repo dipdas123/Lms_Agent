@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="tech.redltd.lmsAgent">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name=".base.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="m">
+
+
+        <activity android:name=".activities.FaqActivity" />
+        <activity android:name=".activities.RegistrationSuccessActivity" />
+        <activity android:name=".activities.changePasswordActivity.PasswordChangeActivity" />
+        <activity
+            android:name=".activities.emiPaySuccessActivity.EmiPaySuccessActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.loanSuccessActivity.LoanSuccessActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.bkashPaymentActivity.BkashPaymentActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.loanConfirmOtp.LoanConfirmOtpActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.productDetailsActivity.ProductDetailsActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.applyLoan.ApplyLoanActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity
+            android:name=".activities.UpdateProfileActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.loanStatus.LoanStatusActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.loanList.LoanListActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.installmentCheck.InstallmentCheckActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.profileActivity.ProfileActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.checkEligibility.CheckEligibilityActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.HomeActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.RegisterSuccessActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.otpActivity.OtpActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.loginActivity.LoginActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.createAccount.CreateAccountActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.mainActivity.MainActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.SplashScreenActivity"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.TermsAndConditions" />
+        <activity android:name=".activities.loan_status_check.LoanStatusCheck" />
+        <activity android:name=".activities.sales_report.AgentSalesReportActivity" />
+        <activity android:name=".activities.transaction_history.TransactionHistory" />
+    </application>
+
+</manifest>

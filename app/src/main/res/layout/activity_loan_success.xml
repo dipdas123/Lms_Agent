@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.loanSuccessActivity.LoanSuccessActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginStart="@dimen/mp_20"
+        android:layout_marginEnd="@dimen/mp_20"
+        android:layout_marginTop="@dimen/mp_max"
+        android:layout_marginBottom="@dimen/mp_max"
+        app:cardCornerRadius="@dimen/mp_10"
+        app:cardElevation="@dimen/mp_10"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profileImage"
+                android:layout_marginTop="@dimen/mp_20"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="150dp"
+                android:layout_height="150dp"/>
+
+            <TextView
+                android:id="@+id/profileName"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/mp_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/userPhoneNumber"
+                android:layout_marginTop="@dimen/mp_5"
+                android:drawableStart="@drawable/ic_phone_in_talk_black_24dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/loanSubmitTV"
+                android:layout_marginTop="@dimen/mp_20"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/green"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/your_order_has_been_submitted_successfully"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/loanProcessingTV"
+                android:layout_marginTop="@dimen/mp_5"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:visibility="gone"
+                android:textSize="16sp"
+                android:text="@string/you_will_be_notified_soon_after_verification"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/loanIdTv"
+                android:text="@string/loan_id"
+                android:textStyle="bold"
+                android:layout_marginTop="@dimen/mp_max"
+                android:layout_marginStart="@dimen/mp_max"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/loanAmount"
+                android:text="@string/loan_amount"
+                android:textStyle="bold"
+                android:layout_marginTop="@dimen/mp_10"
+                android:layout_marginStart="@dimen/mp_max"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/loanDownPayment"
+                android:text="@string/down_payment"
+                android:textStyle="bold"
+                android:layout_marginTop="@dimen/mp_10"
+                android:layout_marginStart="@dimen/mp_max"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/transactionIdTv"
+                android:text="Transaction ID: "
+                android:textStyle="bold"
+                android:layout_marginTop="@dimen/mp_10"
+                android:layout_marginStart="@dimen/mp_max"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <androidx.appcompat.widget.AppCompatButton
+                android:onClick="okBtnClick"
+                android:text="Ok"
+                android:textColor="@color/colorWhite"
+                android:background="@drawable/btn_rounded_magenta"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/mp_10"
+                android:paddingStart="@dimen/mp_max"
+                android:paddingEnd="@dimen/mp_max"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

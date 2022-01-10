@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".activities.sales_report.AgentSalesReportActivity"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        >
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/toolbarBackButton"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/ic_arrow_back_24dp"
+
+            />
+
+        <TextView
+            android:id="@+id/toolbarTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sales Report"
+            android:layout_marginStart="30dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp"
+
+            />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/activity_main_linechart"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        android:clickable="true"
+        android:focusable="true"
+
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:progress="100"
+        android:visibility="gone"
+        android:indeterminateTint="@color/red"
+        android:indeterminate="true"
+        android:indeterminateBehavior="cycle"
+        app:layout_constraintBottom_toBottomOf="@+id/constraintTv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/totalMainTx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/mp_20"
+        app:layout_constraintTop_toBottomOf="@+id/activity_main_linechart"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="@dimen/mp_20"
+        android:layout_marginEnd="@dimen/mp_20"
+        android:paddingBottom="@dimen/mp_5"
+        android:padding="@dimen/mp_5"
+
+        >
+
+        <TextView
+            android:id="@+id/tx1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="Total Sales"
+            android:text=""
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="@+id/totalSales"
+            app:layout_constraintStart_toStartOf="@+id/totalSales"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tx2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="Total Amount"
+            android:text=""
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="@+id/totalAmount"
+            app:layout_constraintStart_toStartOf="@+id/totalAmount"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <TextView
+            android:id="@+id/totalSales"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="120dp"
+            android:minHeight="50dp"
+            android:background="@drawable/shape_totalitem"
+            android:elevation="@dimen/mp_10"
+            android:textColor="@color/black"
+            android:fadingEdge="horizontal"
+            android:fadingEdgeLength="@dimen/mp_10"
+            android:gravity="center"
+            android:hint="Total Sales"
+            android:padding="@dimen/mp_5"
+            android:text="0"
+            android:textSize="14sp"
+            app:layout_constraintTop_toBottomOf="@+id/tx1"
+            app:layout_constraintStart_toStartOf="parent"
+            />
+
+        <TextView
+            android:id="@+id/totalAmount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="120dp"
+            android:minHeight="50dp"
+            android:background="@drawable/shape_totalitem"
+            android:elevation="@dimen/mp_10"
+            android:fadingEdge="horizontal"
+            android:textColor="@color/black"
+            android:fadingEdgeLength="@dimen/mp_10"
+            android:gravity="center"
+            android:hint="Total Sales"
+            android:padding="@dimen/mp_5"
+            android:text="0 tk"
+            android:textSize="14sp"
+            app:layout_constraintTop_toBottomOf="@+id/tx2"
+            app:layout_constraintEnd_toEndOf="parent"
+            />
+
+        <TextView
+            android:id="@+id/tx3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="Select Report Type"
+            android:text=""
+            android:textSize="14sp"
+            android:layout_marginTop="@dimen/mp_20"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/totalAmount"
+            />
+
+        <RelativeLayout
+            android:id="@+id/relspinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="@dimen/mp_5"
+            android:background="@drawable/shape_totalitem"
+            app:layout_constraintTop_toBottomOf="@+id/tx3"
+
+            >
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/reportTypeSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:drawableEnd="@drawable/ic_baseline_keyboard_arrow_down_24"
+            android:gravity="center_vertical"
+            android:elevation="@dimen/mp_10"
+            android:fadingEdge="horizontal"
+            android:fadingEdgeLength="@dimen/mp_10"
+            android:focusableInTouchMode="false"
+            android:textColor="@color/textColor2"
+            android:paddingStart="@dimen/mp_10"
+            android:paddingEnd="@dimen/mp_10"
+            android:textSize="16sp"
+            android:text=""
+            />
+
+        </RelativeLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/mp_20"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_weight="4"
+        android:padding="@dimen/mp_5"
+        android:layout_marginStart="@dimen/mp_5"
+        android:layout_marginEnd="@dimen/mp_5"
+        android:background="@color/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/totalMainTx"
+
+        >
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="100dp"
+            android:maxWidth="100dp"
+            android:gravity="center"
+            android:textColor="@color/colorWhite"
+            android:text="Date"
+            app:layout_constraintHorizontal_weight="1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+
+            />
+
+        <TextView
+            android:id="@+id/tvDevice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="100dp"
+            android:maxWidth="100dp"
+            android:gravity="center"
+            android:textColor="@color/colorWhite"
+            android:text="Device"
+            app:layout_constraintEnd_toStartOf="@+id/tvLoanID"
+            app:layout_constraintStart_toEndOf="@+id/tvDate"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvLoanID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="100dp"
+            android:maxWidth="100dp"
+            android:gravity="center"
+            android:textColor="@color/colorWhite"
+            android:layout_marginEnd="@dimen/mp_5"
+            android:text="Loan ID"
+            app:layout_constraintEnd_toStartOf="@+id/tvLoanId"
+            app:layout_constraintTop_toTopOf="parent"
+
+            />
+
+        <TextView
+            android:id="@+id/tvLoanId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="100dp"
+            android:maxWidth="100dp"
+            android:textColor="@color/colorWhite"
+            android:gravity="center"
+            android:text="Down Payment"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerSalesRecords"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/mp_5"
+        android:layout_marginEnd="@dimen/mp_5"
+        app:layout_constraintTop_toBottomOf="@+id/constraintTv"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:drawableEnd="@drawable/ic_baseline_keyboard_arrow_down_24"
+        android:gravity="center_vertical"
+        android:elevation="@dimen/mp_10"
+        android:fadingEdge="horizontal"
+        android:fadingEdgeLength="@dimen/mp_10"
+        android:focusableInTouchMode="false"
+        android:textColor="@color/textColor2"
+        android:textSize="16sp"
+        android:text=""
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

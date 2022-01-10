@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:bottomLeftRadius="@dimen/button_corner_radius" android:bottomRightRadius="@dimen/button_corner_radius" android:topLeftRadius="@dimen/button_corner_radius" android:topRightRadius="@dimen/button_corner_radius" />
+            <stroke android:width="@dimen/button_pressed_z_material" android:color="@color/button_bg_light" />
+
+            <gradient android:angle="270" android:endColor="@color/button_bg_light" android:startColor="@color/button_bg_light" />
+        </shape>
+    </item>
+
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <corners android:bottomLeftRadius="@dimen/button_corner_radius" android:bottomRightRadius="@dimen/button_corner_radius" android:topLeftRadius="@dimen/button_corner_radius" android:topRightRadius="@dimen/button_corner_radius" />
+            <stroke android:width="@dimen/button_pressed_z_material" android:color="@color/button_bg_light" />
+            <solid android:color="@color/button_bg_light" />
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:bottomLeftRadius="@dimen/button_corner_radius" android:bottomRightRadius="@dimen/button_corner_radius" android:topLeftRadius="@dimen/button_corner_radius" android:topRightRadius="@dimen/button_corner_radius" />
+            <stroke android:width="@dimen/button_pressed_z_material" android:color="@color/button_bg_light" />
+            <gradient android:angle="270" android:endColor="@color/button_bg_light" android:startColor="@color/button_bg_light" />
+        </shape>
+    </item>
+</selector>
+

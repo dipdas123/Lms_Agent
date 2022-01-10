@@ -1,0 +1,3590 @@
+[
+  {
+    "id": 1,
+    "name": "Amtali Upazila",
+    "localname": "Amtali Upazila",
+    "districtid": 21
+  },
+  {
+    "id": 2,
+    "name": "Bamna Upazila",
+    "localname": "Bamna Upazila",
+    "districtid": 21
+  },
+  {
+    "id": 3,
+    "name": "Barguna Sadar Upazila",
+    "localname": "Barguna Sadar Upazila",
+    "districtid": 21
+  },
+  {
+    "id": 4,
+    "name": "Betagi Upazila",
+    "localname": "Betagi Upazila",
+    "districtid": 21
+  },
+  {
+    "id": 5,
+    "name": "Patharghata Upazila",
+    "localname": "Patharghata Upazila",
+    "districtid": 21
+  },
+  {
+    "id": 6,
+    "name": "Taltali Upazila",
+    "localname": "Taltali Upazila",
+    "districtid": 21
+  },
+  {
+    "id": 7,
+    "name": "Muladi Upazila",
+    "localname": "Muladi Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 8,
+    "name": "Babuganj Upazila",
+    "localname": "Babuganj Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 9,
+    "name": "Agailjhara Upazila",
+    "localname": "Agailjhara Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 10,
+    "name": "Barisal Sadar Upazila",
+    "localname": "Barisal Sadar Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 11,
+    "name": "Bakerganj Upazila",
+    "localname": "Bakerganj Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 12,
+    "name": "Banaripara Upazila",
+    "localname": "Banaripara Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 13,
+    "name": "Bhola Sadar Upazila",
+    "localname": "Bhola Sadar Upazila",
+    "districtid": 23
+  },
+  {
+    "id": 14,
+    "name": "Burhanuddin Upazila",
+    "localname": "Burhanuddin Upazila",
+    "districtid": 23
+  },
+  {
+    "id": 15,
+    "name": "Char Fasson Upazila",
+    "localname": "Char Fasson Upazila",
+    "districtid": 23
+  },
+  {
+    "id": 16,
+    "name": "Daulatkhan Upazila",
+    "localname": "Daulatkhan Upazila",
+    "districtid": 23
+  },
+  {
+    "id": 17,
+    "name": "Lalmohan Upazila",
+    "localname": "Lalmohan Upazila",
+    "districtid": 23
+  },
+  {
+    "id": 18,
+    "name": "Jhalokati Sadar Upazila",
+    "localname": "Jhalokati Sadar Upazila",
+    "districtid": 24
+  },
+  {
+    "id": 19,
+    "name": "Kathalia Upazila",
+    "localname": "Kathalia Upazila",
+    "districtid": 24
+  },
+  {
+    "id": 20,
+    "name": "Nalchity Upazila",
+    "localname": "Nalchity Upazila",
+    "districtid": 24
+  },
+  {
+    "id": 21,
+    "name": "Rajapur Upazila",
+    "localname": "Rajapur Upazila",
+    "districtid": 24
+  },
+  {
+    "id": 22,
+    "name": "Bauphal Upazila",
+    "localname": "Bauphal Upazila",
+    "districtid": 25
+  },
+  {
+    "id": 23,
+    "name": "Dashmina Upazila",
+    "localname": "Dashmina Upazila",
+    "districtid": 25
+  },
+  {
+    "id": 24,
+    "name": "Galachipa Upazila",
+    "localname": "Galachipa Upazila",
+    "districtid": 25
+  },
+  {
+    "id": 25,
+    "name": "Kalapara Upazila",
+    "localname": "Kalapara Upazila",
+    "districtid": 25
+  },
+  {
+    "id": 26,
+    "name": "Mirzaganj Upazila",
+    "localname": "Mirzaganj Upazila",
+    "districtid": 25
+  },
+  {
+    "id": 27,
+    "name": "Patuakhali Sadar Upazila",
+    "localname": "Patuakhali Sadar Upazila",
+    "districtid": 25
+  },
+  {
+    "id": 28,
+    "name": "Dumki Upazila",
+    "localname": "Dumki Upazila",
+    "districtid": 25
+  },
+  {
+    "id": 29,
+    "name": "Rangabali Upazila",
+    "localname": "Rangabali Upazila",
+    "districtid": 25
+  },
+  {
+    "id": 30,
+    "name": "Bhandaria",
+    "localname": "Bhandaria",
+    "districtid": 26
+  },
+  {
+    "id": 31,
+    "name": "Kaukhali",
+    "localname": "Kaukhali",
+    "districtid": 26
+  },
+  {
+    "id": 32,
+    "name": "Mathbaria",
+    "localname": "Mathbaria",
+    "districtid": 26
+  },
+  {
+    "id": 33,
+    "name": "Nazirpur",
+    "localname": "Nazirpur",
+    "districtid": 26
+  },
+  {
+    "id": 34,
+    "name": "Nesarabad",
+    "localname": "Nesarabad",
+    "districtid": 26
+  },
+  {
+    "id": 35,
+    "name": "Pirojpur Sadar",
+    "localname": "Pirojpur Sadar",
+    "districtid": 26
+  },
+  {
+    "id": 36,
+    "name": "Zianagar",
+    "localname": "Zianagar",
+    "districtid": 26
+  },
+  {
+    "id": 37,
+    "name": "Bandarban Sadar",
+    "localname": "Bandarban Sadar",
+    "districtid": 27
+  },
+  {
+    "id": 38,
+    "name": "Thanchi",
+    "localname": "Thanchi",
+    "districtid": 27
+  },
+  {
+    "id": 39,
+    "name": "Lama",
+    "localname": "Lama",
+    "districtid": 27
+  },
+  {
+    "id": 40,
+    "name": "Naikhongchhari",
+    "localname": "Naikhongchhari",
+    "districtid": 27
+  },
+  {
+    "id": 41,
+    "name": "Ali kadam",
+    "localname": "Ali kadam",
+    "districtid": 27
+  },
+  {
+    "id": 42,
+    "name": "Rowangchhari",
+    "localname": "Rowangchhari",
+    "districtid": 27
+  },
+  {
+    "id": 43,
+    "name": "Ruma",
+    "localname": "Ruma",
+    "districtid": 27
+  },
+  {
+    "id": 44,
+    "name": "Brahmanbaria Sadar Upazila",
+    "localname": "Brahmanbaria Sadar Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 45,
+    "name": "Ashuganj Upazila",
+    "localname": "Ashuganj Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 46,
+    "name": "Nasirnagar Upazila",
+    "localname": "Nasirnagar Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 47,
+    "name": "Nabinagar Upazila",
+    "localname": "Nabinagar Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 48,
+    "name": "Sarail Upazila",
+    "localname": "Sarail Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 49,
+    "name": "Shahbazpur Town",
+    "localname": "Shahbazpur Town",
+    "districtid": 28
+  },
+  {
+    "id": 50,
+    "name": "Kasba Upazila",
+    "localname": "Kasba Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 51,
+    "name": "Akhaura Upazila",
+    "localname": "Akhaura Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 52,
+    "name": "Bancharampur Upazila",
+    "localname": "Bancharampur Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 53,
+    "name": "Bijoynagar Upazila",
+    "localname": "Bijoynagar Upazila",
+    "districtid": 28
+  },
+  {
+    "id": 54,
+    "name": "Chandpur Sadar",
+    "localname": "Chandpur Sadar",
+    "districtid": 29
+  },
+  {
+    "id": 55,
+    "name": "Faridganj",
+    "localname": "Faridganj",
+    "districtid": 29
+  },
+  {
+    "id": 56,
+    "name": "Haimchar",
+    "localname": "Haimchar",
+    "districtid": 29
+  },
+  {
+    "id": 57,
+    "name": "Haziganj",
+    "localname": "Haziganj",
+    "districtid": 29
+  },
+  {
+    "id": 58,
+    "name": "Kachua",
+    "localname": "Kachua",
+    "districtid": 29
+  },
+  {
+    "id": 59,
+    "name": "Matlab Uttar",
+    "localname": "Matlab Uttar",
+    "districtid": 29
+  },
+  {
+    "id": 60,
+    "name": "Matlab Dakkhin",
+    "localname": "Matlab Dakkhin",
+    "districtid": 29
+  },
+  {
+    "id": 61,
+    "name": "Shahrasti",
+    "localname": "Shahrasti",
+    "districtid": 29
+  },
+  {
+    "id": 62,
+    "name": "Anwara Upazila",
+    "localname": "Anwara Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 63,
+    "name": "Banshkhali Upazila",
+    "localname": "Banshkhali Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 64,
+    "name": "Boalkhali Upazila",
+    "localname": "Boalkhali Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 65,
+    "name": "Chandanaish Upazila",
+    "localname": "Chandanaish Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 66,
+    "name": "Fatikchhari Upazila",
+    "localname": "Fatikchhari Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 67,
+    "name": "Hathazari Upazila",
+    "localname": "Hathazari Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 68,
+    "name": "Lohagara Upazila",
+    "localname": "Lohagara Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 69,
+    "name": "Mirsharai Upazila",
+    "localname": "Mirsharai Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 70,
+    "name": "Patiya Upazila",
+    "localname": "Patiya Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 71,
+    "name": "Rangunia Upazila",
+    "localname": "Rangunia Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 72,
+    "name": "Raozan Upazila",
+    "localname": "Raozan Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 73,
+    "name": "Sandwip Upazila",
+    "localname": "Sandwip Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 74,
+    "name": "Satkania Upazila",
+    "localname": "Satkania Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 75,
+    "name": "Sitakunda Upazila",
+    "localname": "Sitakunda Upazila",
+    "districtid": 30
+  },
+  {
+    "id": 76,
+    "name": "Barura Upazila",
+    "localname": "Barura Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 77,
+    "name": "Brahmanpara Upazila",
+    "localname": "Brahmanpara Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 78,
+    "name": "Burichong Upazila",
+    "localname": "Burichong Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 79,
+    "name": "Chandina Upazila",
+    "localname": "Chandina Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 80,
+    "name": "Chauddagram Upazila",
+    "localname": "Chauddagram Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 81,
+    "name": "Daudkandi Upazila",
+    "localname": "Daudkandi Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 82,
+    "name": "Debidwar Upazila",
+    "localname": "Debidwar Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 83,
+    "name": "Homna Upazila",
+    "localname": "Homna Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 84,
+    "name": "Comilla Sadar Upazila",
+    "localname": "Comilla Sadar Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 85,
+    "name": "Laksam Upazila",
+    "localname": "Laksam Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 86,
+    "name": "Monohorgonj Upazila",
+    "localname": "Monohorgonj Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 87,
+    "name": "Meghna Upazila",
+    "localname": "Meghna Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 88,
+    "name": "Muradnagar Upazila",
+    "localname": "Muradnagar Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 89,
+    "name": "Nangalkot Upazila",
+    "localname": "Nangalkot Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 90,
+    "name": "Comilla Sadar South Upazila",
+    "localname": "Comilla Sadar South Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 91,
+    "name": "Titas Upazila",
+    "localname": "Titas Upazila",
+    "districtid": 31
+  },
+  {
+    "id": 92,
+    "name": "Chakaria Upazila",
+    "localname": "Chakaria Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 93,
+    "name": "Coxs Bazar Sadar Upazila",
+    "localname": "Coxs Bazar Sadar Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 94,
+    "name": "Kutubdia Upazila",
+    "localname": "Kutubdia Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 95,
+    "name": "Maheshkhali Upazila",
+    "localname": "Maheshkhali Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 96,
+    "name": "Ramu Upazila",
+    "localname": "Ramu Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 97,
+    "name": "Teknaf Upazila",
+    "localname": "Teknaf Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 98,
+    "name": "Ukhia Upazila",
+    "localname": "Ukhia Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 99,
+    "name": "Pekua Upazila",
+    "localname": "Pekua Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 100,
+    "name": "Feni Sadar",
+    "localname": "Feni Sadar",
+    "districtid": 33
+  },
+  {
+    "id": 101,
+    "name": "Chagalnaiya",
+    "localname": "Chagalnaiya",
+    "districtid": 33
+  },
+  {
+    "id": 102,
+    "name": "Daganbhyan",
+    "localname": "Daganbhyan",
+    "districtid": 33
+  },
+  {
+    "id": 103,
+    "name": "Parshuram",
+    "localname": "Parshuram",
+    "districtid": 33
+  },
+  {
+    "id": 104,
+    "name": "Fhulgazi",
+    "localname": "Fhulgazi",
+    "districtid": 33
+  },
+  {
+    "id": 105,
+    "name": "Sonagazi",
+    "localname": "Sonagazi",
+    "districtid": 33
+  },
+  {
+    "id": 106,
+    "name": "Dighinala Upazila",
+    "localname": "Dighinala Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 107,
+    "name": "Khagrachhari Upazila",
+    "localname": "Khagrachhari Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 108,
+    "name": "Lakshmichhari Upazila",
+    "localname": "Lakshmichhari Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 109,
+    "name": "Mahalchhari Upazila",
+    "localname": "Mahalchhari Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 110,
+    "name": "Manikchhari Upazila",
+    "localname": "Manikchhari Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 111,
+    "name": "Matiranga Upazila",
+    "localname": "Matiranga Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 112,
+    "name": "Panchhari Upazila",
+    "localname": "Panchhari Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 113,
+    "name": "Ramgarh Upazila",
+    "localname": "Ramgarh Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 114,
+    "name": "Lakshmipur Sadar Upazila",
+    "localname": "Lakshmipur Sadar Upazila",
+    "districtid": 35
+  },
+  {
+    "id": 115,
+    "name": "Raipur Upazila",
+    "localname": "Raipur Upazila",
+    "districtid": 35
+  },
+  {
+    "id": 116,
+    "name": "Ramganj Upazila",
+    "localname": "Ramganj Upazila",
+    "districtid": 35
+  },
+  {
+    "id": 117,
+    "name": "Ramgati Upazila",
+    "localname": "Ramgati Upazila",
+    "districtid": 35
+  },
+  {
+    "id": 118,
+    "name": "Komol Nagar Upazila",
+    "localname": "Komol Nagar Upazila",
+    "districtid": 35
+  },
+  {
+    "id": 119,
+    "name": "Noakhali Sadar Upazila",
+    "localname": "Noakhali Sadar Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 120,
+    "name": "Begumganj Upazila",
+    "localname": "Begumganj Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 121,
+    "name": "Chatkhil Upazila",
+    "localname": "Chatkhil Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 122,
+    "name": "Companyganj Upazila",
+    "localname": "Companyganj Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 123,
+    "name": "Shenbag Upazila",
+    "localname": "Shenbag Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 124,
+    "name": "Hatia Upazila",
+    "localname": "Hatia Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 125,
+    "name": "Kobirhat Upazila",
+    "localname": "Kobirhat Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 126,
+    "name": "Sonaimuri Upazila",
+    "localname": "Sonaimuri Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 127,
+    "name": "Suborno Char Upazila",
+    "localname": "Suborno Char Upazila",
+    "districtid": 36
+  },
+  {
+    "id": 128,
+    "name": "Rangamati Sadar Upazila",
+    "localname": "Rangamati Sadar Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 129,
+    "name": "Belaichhari Upazila",
+    "localname": "Belaichhari Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 130,
+    "name": "Bagaichhari Upazila",
+    "localname": "Bagaichhari Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 131,
+    "name": "Barkal Upazila",
+    "localname": "Barkal Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 132,
+    "name": "Juraichhari Upazila",
+    "localname": "Juraichhari Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 133,
+    "name": "Rajasthali Upazila",
+    "localname": "Rajasthali Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 134,
+    "name": "Kaptai Upazila",
+    "localname": "Kaptai Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 135,
+    "name": "Langadu Upazila",
+    "localname": "Langadu Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 136,
+    "name": "Nannerchar Upazila",
+    "localname": "Nannerchar Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 137,
+    "name": "Kaukhali Upazila",
+    "localname": "Kaukhali Upazila",
+    "districtid": 37
+  },
+  {
+    "id": 138,
+    "name": "Dhamrai Upazila",
+    "localname": "Dhamrai Upazila",
+    "districtid": 52
+  },
+  {
+    "id": 139,
+    "name": "Dohar Upazila",
+    "localname": "Dohar Upazila",
+    "districtid": 52
+  },
+  {
+    "id": 140,
+    "name": "Nawabganj Upazila",
+    "localname": "Nawabganj Upazila",
+    "districtid": 52
+  },
+  {
+    "id": 141,
+    "name": "Savar Upazila",
+    "localname": "Savar Upazila",
+    "districtid": 52
+  },
+  {
+    "id": 142,
+    "name": "Faridpur Sadar Upazila",
+    "localname": "Faridpur Sadar Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 143,
+    "name": "Boalmari Upazila",
+    "localname": "Boalmari Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 144,
+    "name": "Alfadanga Upazila",
+    "localname": "Alfadanga Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 145,
+    "name": "Madhukhali Upazila",
+    "localname": "Madhukhali Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 146,
+    "name": "Bhanga Upazila",
+    "localname": "Bhanga Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 147,
+    "name": "Nagarkanda Upazila",
+    "localname": "Nagarkanda Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 148,
+    "name": "Charbhadrasan Upazila",
+    "localname": "Charbhadrasan Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 149,
+    "name": "Sadarpur Upazila",
+    "localname": "Sadarpur Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 150,
+    "name": "Shaltha Upazila",
+    "localname": "Shaltha Upazila",
+    "districtid": 62
+  },
+  {
+    "id": 151,
+    "name": "Gazipur Sadar-Joydebpur",
+    "localname": "Gazipur Sadar-Joydebpur",
+    "districtid": 53
+  },
+  {
+    "id": 152,
+    "name": "Kaliakior",
+    "localname": "Kaliakior",
+    "districtid": 53
+  },
+  {
+    "id": 153,
+    "name": "Kapasia",
+    "localname": "Kapasia",
+    "districtid": 53
+  },
+  {
+    "id": 154,
+    "name": "Sripur",
+    "localname": "Sripur",
+    "districtid": 53
+  },
+  {
+    "id": 155,
+    "name": "Kaliganj",
+    "localname": "Kaliganj",
+    "districtid": 53
+  },
+  {
+    "id": 156,
+    "name": "Tongi",
+    "localname": "Tongi",
+    "districtid": 53
+  },
+  {
+    "id": 157,
+    "name": "Gopalganj Sadar Upazila",
+    "localname": "Gopalganj Sadar Upazila",
+    "districtid": 54
+  },
+  {
+    "id": 158,
+    "name": "Kashiani Upazila",
+    "localname": "Kashiani Upazila",
+    "districtid": 54
+  },
+  {
+    "id": 159,
+    "name": "Kotalipara Upazila",
+    "localname": "Kotalipara Upazila",
+    "districtid": 54
+  },
+  {
+    "id": 160,
+    "name": "Muksudpur Upazila",
+    "localname": "Muksudpur Upazila",
+    "districtid": 54
+  },
+  {
+    "id": 161,
+    "name": "Tungipara Upazila",
+    "localname": "Tungipara Upazila",
+    "districtid": 54
+  },
+  {
+    "id": 162,
+    "name": "Dewanganj Upazila",
+    "localname": "Dewanganj Upazila",
+    "districtid": 19
+  },
+  {
+    "id": 163,
+    "name": "Baksiganj Upazila",
+    "localname": "Baksiganj Upazila",
+    "districtid": 19
+  },
+  {
+    "id": 164,
+    "name": "Islampur Upazila",
+    "localname": "Islampur Upazila",
+    "districtid": 19
+  },
+  {
+    "id": 165,
+    "name": "Jamalpur Sadar Upazila",
+    "localname": "Jamalpur Sadar Upazila",
+    "districtid": 19
+  },
+  {
+    "id": 166,
+    "name": "Madarganj Upazila",
+    "localname": "Madarganj Upazila",
+    "districtid": 19
+  },
+  {
+    "id": 167,
+    "name": "Melandaha Upazila",
+    "localname": "Melandaha Upazila",
+    "districtid": 19
+  },
+  {
+    "id": 168,
+    "name": "Sarishabari Upazila",
+    "localname": "Sarishabari Upazila",
+    "districtid": 19
+  },
+  {
+    "id": 169,
+    "name": "Narundi Police I.C",
+    "localname": "Narundi Police I.C",
+    "districtid": 19
+  },
+  {
+    "id": 170,
+    "name": "Astagram Upazila",
+    "localname": "Astagram Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 171,
+    "name": "Bajitpur Upazila",
+    "localname": "Bajitpur Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 172,
+    "name": "Bhairab Upazila",
+    "localname": "Bhairab Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 173,
+    "name": "Hossainpur Upazila",
+    "localname": "Hossainpur Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 174,
+    "name": "Itna Upazila",
+    "localname": "Itna Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 175,
+    "name": "Karimganj Upazila",
+    "localname": "Karimganj Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 176,
+    "name": "Katiadi Upazila",
+    "localname": "Katiadi Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 177,
+    "name": "Kishoreganj Sadar Upazila",
+    "localname": "Kishoreganj Sadar Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 178,
+    "name": "Kuliarchar Upazila",
+    "localname": "Kuliarchar Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 179,
+    "name": "Mithamain Upazila",
+    "localname": "Mithamain Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 180,
+    "name": "Nikli Upazila",
+    "localname": "Nikli Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 181,
+    "name": "Pakundia Upazila",
+    "localname": "Pakundia Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 182,
+    "name": "Tarail Upazila",
+    "localname": "Tarail Upazila",
+    "districtid": 55
+  },
+  {
+    "id": 183,
+    "name": "Madaripur Sadar",
+    "localname": "Madaripur Sadar",
+    "districtid": 56
+  },
+  {
+    "id": 184,
+    "name": "Kalkini",
+    "localname": "Kalkini",
+    "districtid": 56
+  },
+  {
+    "id": 185,
+    "name": "Rajoir",
+    "localname": "Rajoir",
+    "districtid": 56
+  },
+  {
+    "id": 186,
+    "name": "Shibchar",
+    "localname": "Shibchar",
+    "districtid": 56
+  },
+  {
+    "id": 187,
+    "name": "Manikganj Sadar Upazila",
+    "localname": "Manikganj Sadar Upazila",
+    "districtid": 57
+  },
+  {
+    "id": 188,
+    "name": "Singair Upazila",
+    "localname": "Singair Upazila",
+    "districtid": 57
+  },
+  {
+    "id": 189,
+    "name": "Shibalaya Upazila",
+    "localname": "Shibalaya Upazila",
+    "districtid": 57
+  },
+  {
+    "id": 190,
+    "name": "Saturia Upazila",
+    "localname": "Saturia Upazila",
+    "districtid": 57
+  },
+  {
+    "id": 191,
+    "name": "Harirampur Upazila",
+    "localname": "Harirampur Upazila",
+    "districtid": 57
+  },
+  {
+    "id": 192,
+    "name": "Ghior Upazila",
+    "localname": "Ghior Upazila",
+    "districtid": 57
+  },
+  {
+    "id": 193,
+    "name": "Daulatpur Upazila",
+    "localname": "Daulatpur Upazila",
+    "districtid": 57
+  },
+  {
+    "id": 194,
+    "name": "Lohajang Upazila",
+    "localname": "Lohajang Upazila",
+    "districtid": 58
+  },
+  {
+    "id": 195,
+    "name": "Sreenagar Upazila",
+    "localname": "Sreenagar Upazila",
+    "districtid": 58
+  },
+  {
+    "id": 196,
+    "name": "Munshiganj Sadar Upazila",
+    "localname": "Munshiganj Sadar Upazila",
+    "districtid": 58
+  },
+  {
+    "id": 197,
+    "name": "Sirajdikhan Upazila",
+    "localname": "Sirajdikhan Upazila",
+    "districtid": 58
+  },
+  {
+    "id": 198,
+    "name": "Tongibari Upazila",
+    "localname": "Tongibari Upazila",
+    "districtid": 58
+  },
+  {
+    "id": 199,
+    "name": "Gazaria Upazila",
+    "localname": "Gazaria Upazila",
+    "districtid": 58
+  },
+  {
+    "id": 200,
+    "name": "Bhaluka",
+    "localname": "Bhaluka",
+    "districtid": 20
+  },
+  {
+    "id": 201,
+    "name": "Trishal",
+    "localname": "Trishal",
+    "districtid": 20
+  },
+  {
+    "id": 202,
+    "name": "Haluaghat",
+    "localname": "Haluaghat",
+    "districtid": 20
+  },
+  {
+    "id": 203,
+    "name": "Muktagachha",
+    "localname": "Muktagachha",
+    "districtid": 20
+  },
+  {
+    "id": 204,
+    "name": "Dhobaura",
+    "localname": "Dhobaura",
+    "districtid": 20
+  },
+  {
+    "id": 205,
+    "name": "Fulbaria",
+    "localname": "Fulbaria",
+    "districtid": 20
+  },
+  {
+    "id": 206,
+    "name": "Gaffargaon",
+    "localname": "Gaffargaon",
+    "districtid": 20
+  },
+  {
+    "id": 207,
+    "name": "Gauripur",
+    "localname": "Gauripur",
+    "districtid": 20
+  },
+  {
+    "id": 208,
+    "name": "Ishwarganj",
+    "localname": "Ishwarganj",
+    "districtid": 20
+  },
+  {
+    "id": 209,
+    "name": "Mymensingh Sadar",
+    "localname": "Mymensingh Sadar",
+    "districtid": 20
+  },
+  {
+    "id": 210,
+    "name": "Nandail",
+    "localname": "Nandail",
+    "districtid": 20
+  },
+  {
+    "id": 211,
+    "name": "Phulpur",
+    "localname": "Phulpur",
+    "districtid": 20
+  },
+  {
+    "id": 212,
+    "name": "Araihazar Upazila",
+    "localname": "Araihazar Upazila",
+    "districtid": 59
+  },
+  {
+    "id": 213,
+    "name": "Sonargaon Upazila",
+    "localname": "Sonargaon Upazila",
+    "districtid": 59
+  },
+  {
+    "id": 214,
+    "name": "Bandar",
+    "localname": "Bandar",
+    "districtid": 59
+  },
+  {
+    "id": 215,
+    "name": "Naryanganj Sadar Upazila",
+    "localname": "Naryanganj Sadar Upazila",
+    "districtid": 59
+  },
+  {
+    "id": 216,
+    "name": "Rupganj Upazila",
+    "localname": "Rupganj Upazila",
+    "districtid": 59
+  },
+  {
+    "id": 217,
+    "name": "Siddirgonj Upazila",
+    "localname": "Siddirgonj Upazila",
+    "districtid": 59
+  },
+  {
+    "id": 218,
+    "name": "Belabo Upazila",
+    "localname": "Belabo Upazila",
+    "districtid": 64
+  },
+  {
+    "id": 219,
+    "name": "Monohardi Upazila",
+    "localname": "Monohardi Upazila",
+    "districtid": 64
+  },
+  {
+    "id": 220,
+    "name": "Narsingdi Sadar Upazila",
+    "localname": "Narsingdi Sadar Upazila",
+    "districtid": 64
+  },
+  {
+    "id": 221,
+    "name": "Palash Upazila",
+    "localname": "Palash Upazila",
+    "districtid": 64
+  },
+  {
+    "id": 222,
+    "name": "Raipura Upazila",
+    "localname": "Raipura Upazila",
+    "districtid": 64
+  },
+  {
+    "id": 223,
+    "name": "Shibpur Upazila",
+    "localname": "Shibpur Upazila",
+    "districtid": 64
+  },
+  {
+    "id": 224,
+    "name": "Kendua Upazilla",
+    "localname": "Kendua Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 225,
+    "name": "Atpara Upazilla",
+    "localname": "Atpara Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 226,
+    "name": "Barhatta Upazilla",
+    "localname": "Barhatta Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 227,
+    "name": "Durgapur Upazilla",
+    "localname": "Durgapur Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 228,
+    "name": "Kalmakanda Upazilla",
+    "localname": "Kalmakanda Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 229,
+    "name": "Madan Upazilla",
+    "localname": "Madan Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 230,
+    "name": "Mohanganj Upazilla",
+    "localname": "Mohanganj Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 231,
+    "name": "Netrakona-S Upazilla",
+    "localname": "Netrakona-S Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 232,
+    "name": "Purbadhala Upazilla",
+    "localname": "Purbadhala Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 233,
+    "name": "Khaliajuri Upazilla",
+    "localname": "Khaliajuri Upazilla",
+    "districtid": 17
+  },
+  {
+    "id": 234,
+    "name": "Baliakandi Upazila",
+    "localname": "Baliakandi Upazila",
+    "districtid": 60
+  },
+  {
+    "id": 235,
+    "name": "Goalandaghat Upazila",
+    "localname": "Goalandaghat Upazila",
+    "districtid": 60
+  },
+  {
+    "id": 236,
+    "name": "Pangsha Upazila",
+    "localname": "Pangsha Upazila",
+    "districtid": 60
+  },
+  {
+    "id": 237,
+    "name": "Kalukhali Upazila",
+    "localname": "Kalukhali Upazila",
+    "districtid": 60
+  },
+  {
+    "id": 238,
+    "name": "Rajbari Sadar Upazila",
+    "localname": "Rajbari Sadar Upazila",
+    "districtid": 60
+  },
+  {
+    "id": 239,
+    "name": "Shariatpur Sadar -Palong",
+    "localname": "Shariatpur Sadar -Palong",
+    "districtid": 61
+  },
+  {
+    "id": 240,
+    "name": "Damudya Upazila",
+    "localname": "Damudya Upazila",
+    "districtid": 61
+  },
+  {
+    "id": 241,
+    "name": "Naria Upazila",
+    "localname": "Naria Upazila",
+    "districtid": 61
+  },
+  {
+    "id": 242,
+    "name": "Jajira Upazila",
+    "localname": "Jajira Upazila",
+    "districtid": 61
+  },
+  {
+    "id": 243,
+    "name": "Bhedarganj Upazila",
+    "localname": "Bhedarganj Upazila",
+    "districtid": 61
+  },
+  {
+    "id": 244,
+    "name": "Gosairhat Upazila",
+    "localname": "Gosairhat Upazila",
+    "districtid": 61
+  },
+  {
+    "id": 245,
+    "name": "Jhenaigati Upazila",
+    "localname": "Jhenaigati Upazila",
+    "districtid": 18
+  },
+  {
+    "id": 246,
+    "name": "Nakla Upazila",
+    "localname": "Nakla Upazila",
+    "districtid": 18
+  },
+  {
+    "id": 247,
+    "name": "Nalitabari Upazila",
+    "localname": "Nalitabari Upazila",
+    "districtid": 18
+  },
+  {
+    "id": 248,
+    "name": "Sherpur Sadar Upazila",
+    "localname": "Sherpur Sadar Upazila",
+    "districtid": 18
+  },
+  {
+    "id": 249,
+    "name": "Sreebardi Upazila",
+    "localname": "Sreebardi Upazila",
+    "districtid": 18
+  },
+  {
+    "id": 250,
+    "name": "Tangail Sadar Upazila",
+    "localname": "Tangail Sadar Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 251,
+    "name": "Sakhipur Upazila",
+    "localname": "Sakhipur Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 252,
+    "name": "Basail Upazila",
+    "localname": "Basail Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 253,
+    "name": "Madhupur Upazila",
+    "localname": "Madhupur Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 254,
+    "name": "Ghatail Upazila",
+    "localname": "Ghatail Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 255,
+    "name": "Kalihati Upazila",
+    "localname": "Kalihati Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 256,
+    "name": "Nagarpur Upazila",
+    "localname": "Nagarpur Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 257,
+    "name": "Mirzapur Upazila",
+    "localname": "Mirzapur Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 258,
+    "name": "Gopalpur Upazila",
+    "localname": "Gopalpur Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 259,
+    "name": "Delduar Upazila",
+    "localname": "Delduar Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 260,
+    "name": "Bhuapur Upazila",
+    "localname": "Bhuapur Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 261,
+    "name": "Dhanbari Upazila",
+    "localname": "Dhanbari Upazila",
+    "districtid": 63
+  },
+  {
+    "id": 262,
+    "name": "Bagerhat Sadar Upazila",
+    "localname": "Bagerhat Sadar Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 263,
+    "name": "Chitalmari Upazila",
+    "localname": "Chitalmari Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 264,
+    "name": "Fakirhat Upazila",
+    "localname": "Fakirhat Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 265,
+    "name": "Kachua Upazila",
+    "localname": "Kachua Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 266,
+    "name": "Mollahat Upazila",
+    "localname": "Mollahat Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 267,
+    "name": "Mongla Upazila",
+    "localname": "Mongla Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 268,
+    "name": "Morrelganj Upazila",
+    "localname": "Morrelganj Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 269,
+    "name": "Rampal Upazila",
+    "localname": "Rampal Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 270,
+    "name": "Sarankhola Upazila",
+    "localname": "Sarankhola Upazila",
+    "districtid": 42
+  },
+  {
+    "id": 271,
+    "name": "Damurhuda Upazila",
+    "localname": "Damurhuda Upazila",
+    "districtid": 43
+  },
+  {
+    "id": 272,
+    "name": "Chuadanga Sadar Upazila",
+    "localname": "Chuadanga Sadar Upazila",
+    "districtid": 43
+  },
+  {
+    "id": 273,
+    "name": "Jibannagar Upazila",
+    "localname": "Jibannagar Upazila",
+    "districtid": 43
+  },
+  {
+    "id": 274,
+    "name": "Alamdanga Upazila",
+    "localname": "Alamdanga Upazila",
+    "districtid": 43
+  },
+  {
+    "id": 275,
+    "name": "Abhaynagar Upazila",
+    "localname": "Abhaynagar Upazila",
+    "districtid": 44
+  },
+  {
+    "id": 276,
+    "name": "Keshabpur Upazila",
+    "localname": "Keshabpur Upazila",
+    "districtid": 44
+  },
+  {
+    "id": 277,
+    "name": "Bagherpara Upazila",
+    "localname": "Bagherpara Upazila",
+    "districtid": 44
+  },
+  {
+    "id": 278,
+    "name": "Jessore Sadar Upazila",
+    "localname": "Jessore Sadar Upazila",
+    "districtid": 44
+  },
+  {
+    "id": 279,
+    "name": "Chaugachha Upazila",
+    "localname": "Chaugachha Upazila",
+    "districtid": 44
+  },
+  {
+    "id": 280,
+    "name": "Manirampur Upazila",
+    "localname": "Manirampur Upazila",
+    "districtid": 44
+  },
+  {
+    "id": 281,
+    "name": "Jhikargachha Upazila",
+    "localname": "Jhikargachha Upazila",
+    "districtid": 44
+  },
+  {
+    "id": 282,
+    "name": "Sharsha Upazila",
+    "localname": "Sharsha Upazila",
+    "districtid": 44
+  },
+  {
+    "id": 283,
+    "name": "Jhenaidah Sadar Upazila",
+    "localname": "Jhenaidah Sadar Upazila",
+    "districtid": 45
+  },
+  {
+    "id": 284,
+    "name": "Maheshpur Upazila",
+    "localname": "Maheshpur Upazila",
+    "districtid": 45
+  },
+  {
+    "id": 285,
+    "name": "Kaliganj Upazila",
+    "localname": "Kaliganj Upazila",
+    "districtid": 45
+  },
+  {
+    "id": 286,
+    "name": "Kotchandpur Upazila",
+    "localname": "Kotchandpur Upazila",
+    "districtid": 45
+  },
+  {
+    "id": 287,
+    "name": "Shailkupa Upazila",
+    "localname": "Shailkupa Upazila",
+    "districtid": 45
+  },
+  {
+    "id": 288,
+    "name": "Harinakunda Upazila",
+    "localname": "Harinakunda Upazila",
+    "districtid": 45
+  },
+  {
+    "id": 289,
+    "name": "Terokhada Upazila",
+    "localname": "Terokhada Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 290,
+    "name": "Batiaghata Upazila",
+    "localname": "Batiaghata Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 291,
+    "name": "Dacope Upazila",
+    "localname": "Dacope Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 292,
+    "name": "Dumuria Upazila",
+    "localname": "Dumuria Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 293,
+    "name": "Dighalia Upazila",
+    "localname": "Dighalia Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 294,
+    "name": "Koyra Upazila",
+    "localname": "Koyra Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 295,
+    "name": "Paikgachha Upazila",
+    "localname": "Paikgachha Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 296,
+    "name": "Phultala Upazila",
+    "localname": "Phultala Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 297,
+    "name": "Rupsa Upazila",
+    "localname": "Rupsa Upazila",
+    "districtid": 46
+  },
+  {
+    "id": 298,
+    "name": "Kushtia Sadar",
+    "localname": "Kushtia Sadar",
+    "districtid": 47
+  },
+  {
+    "id": 299,
+    "name": "Kumarkhali",
+    "localname": "Kumarkhali",
+    "districtid": 47
+  },
+  {
+    "id": 300,
+    "name": "Daulatpur",
+    "localname": "Daulatpur",
+    "districtid": 47
+  },
+  {
+    "id": 301,
+    "name": "Mirpur",
+    "localname": "Mirpur",
+    "districtid": 47
+  },
+  {
+    "id": 302,
+    "name": "Bheramara",
+    "localname": "Bheramara",
+    "districtid": 47
+  },
+  {
+    "id": 303,
+    "name": "Khoksa",
+    "localname": "Khoksa",
+    "districtid": 47
+  },
+  {
+    "id": 304,
+    "name": "Magura Sadar Upazila",
+    "localname": "Magura Sadar Upazila",
+    "districtid": 48
+  },
+  {
+    "id": 305,
+    "name": "Mohammadpur Upazila",
+    "localname": "Mohammadpur Upazila",
+    "districtid": 48
+  },
+  {
+    "id": 306,
+    "name": "Shalikha Upazila",
+    "localname": "Shalikha Upazila",
+    "districtid": 48
+  },
+  {
+    "id": 307,
+    "name": "Sreepur Upazila",
+    "localname": "Sreepur Upazila",
+    "districtid": 48
+  },
+  {
+    "id": 308,
+    "name": "Gangni Upazila",
+    "localname": "Gangni Upazila",
+    "districtid": 49
+  },
+  {
+    "id": 309,
+    "name": "Mujib Nagar Upazila",
+    "localname": "Mujib Nagar Upazila",
+    "districtid": 49
+  },
+  {
+    "id": 310,
+    "name": "Meherpur-S Upazila",
+    "localname": "Meherpur-S Upazila",
+    "districtid": 49
+  },
+  {
+    "id": 311,
+    "name": "Narail-S Upazilla",
+    "localname": "Narail-S Upazilla",
+    "districtid": 50
+  },
+  {
+    "id": 312,
+    "name": "Lohagara Upazilla",
+    "localname": "Lohagara Upazilla",
+    "districtid": 50
+  },
+  {
+    "id": 313,
+    "name": "Kalia Upazilla",
+    "localname": "Kalia Upazilla",
+    "districtid": 50
+  },
+  {
+    "id": 314,
+    "name": "Satkhira Sadar Upazila",
+    "localname": "Satkhira Sadar Upazila",
+    "districtid": 51
+  },
+  {
+    "id": 315,
+    "name": "Assasuni Upazila",
+    "localname": "Assasuni Upazila",
+    "districtid": 51
+  },
+  {
+    "id": 316,
+    "name": "Debhata Upazila",
+    "localname": "Debhata Upazila",
+    "districtid": 51
+  },
+  {
+    "id": 317,
+    "name": "Tala Upazila",
+    "localname": "Tala Upazila",
+    "districtid": 51
+  },
+  {
+    "id": 318,
+    "name": "Kalaroa Upazila",
+    "localname": "Kalaroa Upazila",
+    "districtid": 51
+  },
+  {
+    "id": 319,
+    "name": "Kaliganj Upazila",
+    "localname": "Kaliganj Upazila",
+    "districtid": 51
+  },
+  {
+    "id": 320,
+    "name": "Shyamnagar Upazila",
+    "localname": "Shyamnagar Upazila",
+    "districtid": 51
+  },
+  {
+    "id": 321,
+    "name": "Adamdighi",
+    "localname": "Adamdighi",
+    "districtid": 2
+  },
+  {
+    "id": 322,
+    "name": "Bogra Sadar",
+    "localname": "Bogra Sadar",
+    "districtid": 2
+  },
+  {
+    "id": 323,
+    "name": "Sherpur",
+    "localname": "Sherpur",
+    "districtid": 2
+  },
+  {
+    "id": 324,
+    "name": "Dhunat",
+    "localname": "Dhunat",
+    "districtid": 2
+  },
+  {
+    "id": 325,
+    "name": "Dhupchanchia",
+    "localname": "Dhupchanchia",
+    "districtid": 2
+  },
+  {
+    "id": 326,
+    "name": "Gabtali",
+    "localname": "Gabtali",
+    "districtid": 2
+  },
+  {
+    "id": 327,
+    "name": "Kahaloo",
+    "localname": "Kahaloo",
+    "districtid": 2
+  },
+  {
+    "id": 328,
+    "name": "Nandigram",
+    "localname": "Nandigram",
+    "districtid": 2
+  },
+  {
+    "id": 329,
+    "name": "Sahajanpur",
+    "localname": "Sahajanpur",
+    "districtid": 2
+  },
+  {
+    "id": 330,
+    "name": "Sariakandi",
+    "localname": "Sariakandi",
+    "districtid": 2
+  },
+  {
+    "id": 331,
+    "name": "Shibganj",
+    "localname": "Shibganj",
+    "districtid": 2
+  },
+  {
+    "id": 332,
+    "name": "Sonatala",
+    "localname": "Sonatala",
+    "districtid": 2
+  },
+  {
+    "id": 333,
+    "name": "Joypurhat S",
+    "localname": "Joypurhat S",
+    "districtid": 1
+  },
+  {
+    "id": 334,
+    "name": "Akkelpur",
+    "localname": "Akkelpur",
+    "districtid": 1
+  },
+  {
+    "id": 335,
+    "name": "Kalai",
+    "localname": "Kalai",
+    "districtid": 1
+  },
+  {
+    "id": 336,
+    "name": "Khetlal",
+    "localname": "Khetlal",
+    "districtid": 1
+  },
+  {
+    "id": 337,
+    "name": "Panchbibi",
+    "localname": "Panchbibi",
+    "districtid": 1
+  },
+  {
+    "id": 338,
+    "name": "Naogaon Sadar Upazila",
+    "localname": "Naogaon Sadar Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 339,
+    "name": "Mohadevpur Upazila",
+    "localname": "Mohadevpur Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 340,
+    "name": "Manda Upazila",
+    "localname": "Manda Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 341,
+    "name": "Niamatpur Upazila",
+    "localname": "Niamatpur Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 342,
+    "name": "Atrai Upazila",
+    "localname": "Atrai Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 343,
+    "name": "Raninagar Upazila",
+    "localname": "Raninagar Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 344,
+    "name": "Patnitala Upazila",
+    "localname": "Patnitala Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 345,
+    "name": "Dhamoirhat Upazila",
+    "localname": "Dhamoirhat Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 346,
+    "name": "Sapahar Upazila",
+    "localname": "Sapahar Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 347,
+    "name": "Porsha Upazila",
+    "localname": "Porsha Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 348,
+    "name": "Badalgachhi Upazila",
+    "localname": "Badalgachhi Upazila",
+    "districtid": 3
+  },
+  {
+    "id": 349,
+    "name": "Natore Sadar Upazila",
+    "localname": "Natore Sadar Upazila",
+    "districtid": 4
+  },
+  {
+    "id": 350,
+    "name": "Singra Upazila",
+    "localname": "Singra Upazila",
+    "districtid": 4
+  },
+  {
+    "id": 351,
+    "name": "Bagatipara Upazila",
+    "localname": "Bagatipara Upazila",
+    "districtid": 4
+  },
+  {
+    "id": 352,
+    "name": "Lalpur Upazila",
+    "localname": "Lalpur Upazila",
+    "districtid": 4
+  },
+  {
+    "id": 353,
+    "name": "Gurudaspur Upazila",
+    "localname": "Gurudaspur Upazila",
+    "districtid": 4
+  },
+  {
+    "id": 354,
+    "name": "Baraigram Upazila",
+    "localname": "Baraigram Upazila",
+    "districtid": 4
+  },
+  {
+    "id": 355,
+    "name": "Bholahat Upazila",
+    "localname": "Bholahat Upazila",
+    "districtid": 5
+  },
+  {
+    "id": 356,
+    "name": "Gomastapur Upazila",
+    "localname": "Gomastapur Upazila",
+    "districtid": 5
+  },
+  {
+    "id": 357,
+    "name": "Nachole Upazila",
+    "localname": "Nachole Upazila",
+    "districtid": 5
+  },
+  {
+    "id": 358,
+    "name": "Nawabganj Sadar Upazila",
+    "localname": "Nawabganj Sadar Upazila",
+    "districtid": 5
+  },
+  {
+    "id": 359,
+    "name": "Shibganj Upazila",
+    "localname": "Shibganj Upazila",
+    "districtid": 5
+  },
+  {
+    "id": 360,
+    "name": "Atgharia Upazila",
+    "localname": "Atgharia Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 361,
+    "name": "Bera Upazila",
+    "localname": "Bera Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 362,
+    "name": "Bhangura Upazila",
+    "localname": "Bhangura Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 363,
+    "name": "Chatmohar Upazila",
+    "localname": "Chatmohar Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 364,
+    "name": "Faridpur Upazila",
+    "localname": "Faridpur Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 365,
+    "name": "Ishwardi Upazila",
+    "localname": "Ishwardi Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 366,
+    "name": "Pabna Sadar Upazila",
+    "localname": "Pabna Sadar Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 367,
+    "name": "Santhia Upazila",
+    "localname": "Santhia Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 368,
+    "name": "Sujanagar Upazila",
+    "localname": "Sujanagar Upazila",
+    "districtid": 6
+  },
+  {
+    "id": 369,
+    "name": "Bagha",
+    "localname": "Bagha",
+    "districtid": 8
+  },
+  {
+    "id": 370,
+    "name": "Bagmara",
+    "localname": "Bagmara",
+    "districtid": 8
+  },
+  {
+    "id": 371,
+    "name": "Charghat",
+    "localname": "Charghat",
+    "districtid": 8
+  },
+  {
+    "id": 372,
+    "name": "Durgapur",
+    "localname": "Durgapur",
+    "districtid": 8
+  },
+  {
+    "id": 373,
+    "name": "Godagari",
+    "localname": "Godagari",
+    "districtid": 8
+  },
+  {
+    "id": 374,
+    "name": "Mohanpur",
+    "localname": "Mohanpur",
+    "districtid": 8
+  },
+  {
+    "id": 375,
+    "name": "Paba",
+    "localname": "Paba",
+    "districtid": 8
+  },
+  {
+    "id": 376,
+    "name": "Puthia",
+    "localname": "Puthia",
+    "districtid": 8
+  },
+  {
+    "id": 377,
+    "name": "Tanore",
+    "localname": "Tanore",
+    "districtid": 8
+  },
+  {
+    "id": 378,
+    "name": "Sirajganj Sadar Upazila",
+    "localname": "Sirajganj Sadar Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 379,
+    "name": "Belkuchi Upazila",
+    "localname": "Belkuchi Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 380,
+    "name": "Chauhali Upazila",
+    "localname": "Chauhali Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 381,
+    "name": "Kamarkhanda Upazila",
+    "localname": "Kamarkhanda Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 382,
+    "name": "Kazipur Upazila",
+    "localname": "Kazipur Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 383,
+    "name": "Raiganj Upazila",
+    "localname": "Raiganj Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 384,
+    "name": "Shahjadpur Upazila",
+    "localname": "Shahjadpur Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 385,
+    "name": "Tarash Upazila",
+    "localname": "Tarash Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 386,
+    "name": "Ullahpara Upazila",
+    "localname": "Ullahpara Upazila",
+    "districtid": 7
+  },
+  {
+    "id": 387,
+    "name": "Birampur Upazila",
+    "localname": "Birampur Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 388,
+    "name": "Birganj",
+    "localname": "Birganj",
+    "districtid": 9
+  },
+  {
+    "id": 389,
+    "name": "Biral Upazila",
+    "localname": "Biral Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 390,
+    "name": "Bochaganj Upazila",
+    "localname": "Bochaganj Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 391,
+    "name": "Chirirbandar Upazila",
+    "localname": "Chirirbandar Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 392,
+    "name": "Phulbari Upazila",
+    "localname": "Phulbari Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 393,
+    "name": "Ghoraghat Upazila",
+    "localname": "Ghoraghat Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 394,
+    "name": "Hakimpur Upazila",
+    "localname": "Hakimpur Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 395,
+    "name": "Kaharole Upazila",
+    "localname": "Kaharole Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 396,
+    "name": "Khansama Upazila",
+    "localname": "Khansama Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 397,
+    "name": "Dinajpur Sadar Upazila",
+    "localname": "Dinajpur Sadar Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 398,
+    "name": "Nawabganj",
+    "localname": "Nawabganj",
+    "districtid": 9
+  },
+  {
+    "id": 399,
+    "name": "Parbatipur Upazila",
+    "localname": "Parbatipur Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 400,
+    "name": "Fulchhari",
+    "localname": "Fulchhari",
+    "districtid": 10
+  },
+  {
+    "id": 401,
+    "name": "Gaibandha sadar",
+    "localname": "Gaibandha sadar",
+    "districtid": 10
+  },
+  {
+    "id": 402,
+    "name": "Gobindaganj",
+    "localname": "Gobindaganj",
+    "districtid": 10
+  },
+  {
+    "id": 403,
+    "name": "Palashbari",
+    "localname": "Palashbari",
+    "districtid": 10
+  },
+  {
+    "id": 404,
+    "name": "Sadullapur",
+    "localname": "Sadullapur",
+    "districtid": 10
+  },
+  {
+    "id": 405,
+    "name": "Saghata",
+    "localname": "Saghata",
+    "districtid": 10
+  },
+  {
+    "id": 406,
+    "name": "Sundarganj",
+    "localname": "Sundarganj",
+    "districtid": 10
+  },
+  {
+    "id": 407,
+    "name": "Kurigram Sadar",
+    "localname": "Kurigram Sadar",
+    "districtid": 11
+  },
+  {
+    "id": 408,
+    "name": "Nageshwari",
+    "localname": "Nageshwari",
+    "districtid": 11
+  },
+  {
+    "id": 409,
+    "name": "Bhurungamari",
+    "localname": "Bhurungamari",
+    "districtid": 11
+  },
+  {
+    "id": 410,
+    "name": "Phulbari",
+    "localname": "Phulbari",
+    "districtid": 11
+  },
+  {
+    "id": 411,
+    "name": "Rajarhat",
+    "localname": "Rajarhat",
+    "districtid": 11
+  },
+  {
+    "id": 412,
+    "name": "Ulipur",
+    "localname": "Ulipur",
+    "districtid": 11
+  },
+  {
+    "id": 413,
+    "name": "Chilmari",
+    "localname": "Chilmari",
+    "districtid": 11
+  },
+  {
+    "id": 414,
+    "name": "Rowmari",
+    "localname": "Rowmari",
+    "districtid": 11
+  },
+  {
+    "id": 415,
+    "name": "Char Rajibpur",
+    "localname": "Char Rajibpur",
+    "districtid": 11
+  },
+  {
+    "id": 416,
+    "name": "Lalmanirhat Sadar",
+    "localname": "Lalmanirhat Sadar",
+    "districtid": 12
+  },
+  {
+    "id": 417,
+    "name": "Aditmari",
+    "localname": "Aditmari",
+    "districtid": 12
+  },
+  {
+    "id": 418,
+    "name": "Kaliganj",
+    "localname": "Kaliganj",
+    "districtid": 12
+  },
+  {
+    "id": 419,
+    "name": "Hatibandha",
+    "localname": "Hatibandha",
+    "districtid": 12
+  },
+  {
+    "id": 420,
+    "name": "Patgram",
+    "localname": "Patgram",
+    "districtid": 12
+  },
+  {
+    "id": 421,
+    "name": "Nilphamari Sadar",
+    "localname": "Nilphamari Sadar",
+    "districtid": 13
+  },
+  {
+    "id": 422,
+    "name": "Saidpur",
+    "localname": "Saidpur",
+    "districtid": 13
+  },
+  {
+    "id": 423,
+    "name": "Jaldhaka",
+    "localname": "Jaldhaka",
+    "districtid": 13
+  },
+  {
+    "id": 424,
+    "name": "Kishoreganj",
+    "localname": "Kishoreganj",
+    "districtid": 13
+  },
+  {
+    "id": 425,
+    "name": "Domar",
+    "localname": "Domar",
+    "districtid": 13
+  },
+  {
+    "id": 426,
+    "name": "Dimla",
+    "localname": "Dimla",
+    "districtid": 13
+  },
+  {
+    "id": 427,
+    "name": "Panchagarh Sadar",
+    "localname": "Panchagarh Sadar",
+    "districtid": 14
+  },
+  {
+    "id": 428,
+    "name": "Debiganj",
+    "localname": "Debiganj",
+    "districtid": 14
+  },
+  {
+    "id": 429,
+    "name": "Boda",
+    "localname": "Boda",
+    "districtid": 14
+  },
+  {
+    "id": 430,
+    "name": "Atwari",
+    "localname": "Atwari",
+    "districtid": 14
+  },
+  {
+    "id": 431,
+    "name": "Tetulia",
+    "localname": "Tetulia",
+    "districtid": 14
+  },
+  {
+    "id": 432,
+    "name": "Badarganj",
+    "localname": "Badarganj",
+    "districtid": 15
+  },
+  {
+    "id": 433,
+    "name": "Mithapukur",
+    "localname": "Mithapukur",
+    "districtid": 15
+  },
+  {
+    "id": 434,
+    "name": "Gangachara",
+    "localname": "Gangachara",
+    "districtid": 15
+  },
+  {
+    "id": 435,
+    "name": "Kaunia",
+    "localname": "Kaunia",
+    "districtid": 15
+  },
+  {
+    "id": 436,
+    "name": "Rangpur Sadar",
+    "localname": "Rangpur Sadar",
+    "districtid": 15
+  },
+  {
+    "id": 437,
+    "name": "Pirgachha",
+    "localname": "Pirgachha",
+    "districtid": 15
+  },
+  {
+    "id": 438,
+    "name": "Pirganj",
+    "localname": "Pirganj",
+    "districtid": 15
+  },
+  {
+    "id": 439,
+    "name": "Taraganj",
+    "localname": "Taraganj",
+    "districtid": 15
+  },
+  {
+    "id": 440,
+    "name": "Thakurgaon Sadar Upazila",
+    "localname": "Thakurgaon Sadar Upazila",
+    "districtid": 16
+  },
+  {
+    "id": 441,
+    "name": "Pirganj Upazila",
+    "localname": "Pirganj Upazila",
+    "districtid": 16
+  },
+  {
+    "id": 442,
+    "name": "Baliadangi Upazila",
+    "localname": "Baliadangi Upazila",
+    "districtid": 16
+  },
+  {
+    "id": 443,
+    "name": "Haripur Upazila",
+    "localname": "Haripur Upazila",
+    "districtid": 16
+  },
+  {
+    "id": 444,
+    "name": "Ranisankail Upazila",
+    "localname": "Ranisankail Upazila",
+    "districtid": 16
+  },
+  {
+    "id": 445,
+    "name": "Ajmiriganj",
+    "localname": "Ajmiriganj",
+    "districtid": 38
+  },
+  {
+    "id": 446,
+    "name": "Baniachang",
+    "localname": "Baniachang",
+    "districtid": 38
+  },
+  {
+    "id": 447,
+    "name": "Bahubal",
+    "localname": "Bahubal",
+    "districtid": 38
+  },
+  {
+    "id": 448,
+    "name": "Chunarughat",
+    "localname": "Chunarughat",
+    "districtid": 38
+  },
+  {
+    "id": 449,
+    "name": "Habiganj Sadar",
+    "localname": "Habiganj Sadar",
+    "districtid": 38
+  },
+  {
+    "id": 450,
+    "name": "Lakhai",
+    "localname": "Lakhai",
+    "districtid": 38
+  },
+  {
+    "id": 451,
+    "name": "Madhabpur",
+    "localname": "Madhabpur",
+    "districtid": 38
+  },
+  {
+    "id": 452,
+    "name": "Nabiganj",
+    "localname": "Nabiganj",
+    "districtid": 38
+  },
+  {
+    "id": 453,
+    "name": "Shaistagonj Upazila",
+    "localname": "Shaistagonj Upazila",
+    "districtid": 38
+  },
+  {
+    "id": 454,
+    "name": "Moulvibazar Sadar",
+    "localname": "Moulvibazar Sadar",
+    "districtid": 39
+  },
+  {
+    "id": 455,
+    "name": "Barlekha",
+    "localname": "Barlekha",
+    "districtid": 39
+  },
+  {
+    "id": 456,
+    "name": "Juri",
+    "localname": "Juri",
+    "districtid": 39
+  },
+  {
+    "id": 457,
+    "name": "Kamalganj",
+    "localname": "Kamalganj",
+    "districtid": 39
+  },
+  {
+    "id": 458,
+    "name": "Kulaura",
+    "localname": "Kulaura",
+    "districtid": 39
+  },
+  {
+    "id": 459,
+    "name": "Rajnagar",
+    "localname": "Rajnagar",
+    "districtid": 39
+  },
+  {
+    "id": 460,
+    "name": "Sreemangal",
+    "localname": "Sreemangal",
+    "districtid": 39
+  },
+  {
+    "id": 461,
+    "name": "Bishwamvarpur",
+    "localname": "Bishwamvarpur",
+    "districtid": 40
+  },
+  {
+    "id": 462,
+    "name": "Chhatak",
+    "localname": "Chhatak",
+    "districtid": 40
+  },
+  {
+    "id": 463,
+    "name": "Derai",
+    "localname": "Derai",
+    "districtid": 40
+  },
+  {
+    "id": 464,
+    "name": "Dharampasha",
+    "localname": "Dharampasha",
+    "districtid": 40
+  },
+  {
+    "id": 465,
+    "name": "Dowarabazar",
+    "localname": "Dowarabazar",
+    "districtid": 40
+  },
+  {
+    "id": 466,
+    "name": "Jagannathpur",
+    "localname": "Jagannathpur",
+    "districtid": 40
+  },
+  {
+    "id": 467,
+    "name": "Jamalganj",
+    "localname": "Jamalganj",
+    "districtid": 40
+  },
+  {
+    "id": 468,
+    "name": "Sulla",
+    "localname": "Sulla",
+    "districtid": 40
+  },
+  {
+    "id": 469,
+    "name": "Sunamganj Sadar",
+    "localname": "Sunamganj Sadar",
+    "districtid": 40
+  },
+  {
+    "id": 470,
+    "name": "Shanthiganj",
+    "localname": "Shanthiganj",
+    "districtid": 40
+  },
+  {
+    "id": 471,
+    "name": "Tahirpur",
+    "localname": "Tahirpur",
+    "districtid": 40
+  },
+  {
+    "id": 472,
+    "name": "Sylhet Sadar",
+    "localname": "Sylhet Sadar",
+    "districtid": 41
+  },
+  {
+    "id": 473,
+    "name": "Beanibazar",
+    "localname": "Beanibazar",
+    "districtid": 41
+  },
+  {
+    "id": 474,
+    "name": "Bishwanath",
+    "localname": "Bishwanath",
+    "districtid": 41
+  },
+  {
+    "id": 475,
+    "name": "Dakshin Surma Upazila",
+    "localname": "Dakshin Surma Upazila",
+    "districtid": 41
+  },
+  {
+    "id": 476,
+    "name": "Balaganj",
+    "localname": "Balaganj",
+    "districtid": 41
+  },
+  {
+    "id": 477,
+    "name": "Companiganj",
+    "localname": "Companiganj",
+    "districtid": 41
+  },
+  {
+    "id": 478,
+    "name": "Fenchuganj",
+    "localname": "Fenchuganj",
+    "districtid": 41
+  },
+  {
+    "id": 479,
+    "name": "Golapganj",
+    "localname": "Golapganj",
+    "districtid": 41
+  },
+  {
+    "id": 480,
+    "name": "Gowainghat",
+    "localname": "Gowainghat",
+    "districtid": 41
+  },
+  {
+    "id": 481,
+    "name": "Jaintiapur",
+    "localname": "Jaintiapur",
+    "districtid": 41
+  },
+  {
+    "id": 482,
+    "name": "Kanaighat",
+    "localname": "Kanaighat",
+    "districtid": 41
+  },
+  {
+    "id": 483,
+    "name": "Zakiganj",
+    "localname": "Zakiganj",
+    "districtid": 41
+  },
+  {
+    "id": 484,
+    "name": "Nobigonj",
+    "localname": "Nobigonj",
+    "districtid": 41
+  },
+  {
+    "id": 485,
+    "name": "Adabor",
+    "localname": "Adabor",
+    "districtid": 52
+  },
+  {
+    "id": 486,
+    "name": "Airport",
+    "localname": "Airport",
+    "districtid": 52
+  },
+  {
+    "id": 487,
+    "name": "Badda",
+    "localname": "Badda",
+    "districtid": 52
+  },
+  {
+    "id": 488,
+    "name": "Banani",
+    "localname": "Banani",
+    "districtid": 52
+  },
+  {
+    "id": 489,
+    "name": "Bangshal",
+    "localname": "Bangshal",
+    "districtid": 52
+  },
+  {
+    "id": 490,
+    "name": "Bhashantek",
+    "localname": "Bhashantek",
+    "districtid": 52
+  },
+  {
+    "id": 491,
+    "name": "Cantonment",
+    "localname": "Cantonment",
+    "districtid": 52
+  },
+  {
+    "id": 492,
+    "name": "Chackbazar",
+    "localname": "Chackbazar",
+    "districtid": 52
+  },
+  {
+    "id": 493,
+    "name": "Darussalam",
+    "localname": "Darussalam",
+    "districtid": 52
+  },
+  {
+    "id": 494,
+    "name": "Daskhinkhan",
+    "localname": "Daskhinkhan",
+    "districtid": 52
+  },
+  {
+    "id": 495,
+    "name": "Demra",
+    "localname": "Demra",
+    "districtid": 52
+  },
+  {
+    "id": 496,
+    "name": "Dhamrai",
+    "localname": "Dhamrai",
+    "districtid": 52
+  },
+  {
+    "id": 497,
+    "name": "Dhanmondi",
+    "localname": "Dhanmondi",
+    "districtid": 52
+  },
+  {
+    "id": 498,
+    "name": "Dohar",
+    "localname": "Dohar",
+    "districtid": 52
+  },
+  {
+    "id": 499,
+    "name": "Gandaria",
+    "localname": "Gandaria",
+    "districtid": 52
+  },
+  {
+    "id": 500,
+    "name": "Gulshan",
+    "localname": "Gulshan",
+    "districtid": 52
+  },
+  {
+    "id": 501,
+    "name": "Hazaribag",
+    "localname": "Hazaribag",
+    "districtid": 52
+  },
+  {
+    "id": 502,
+    "name": "Jatrabari",
+    "localname": "Jatrabari",
+    "districtid": 52
+  },
+  {
+    "id": 503,
+    "name": "Kafrul",
+    "localname": "Kafrul",
+    "districtid": 52
+  },
+  {
+    "id": 504,
+    "name": "Kalabagan",
+    "localname": "Kalabagan",
+    "districtid": 52
+  },
+  {
+    "id": 505,
+    "name": "Kamrangirchar",
+    "localname": "Kamrangirchar",
+    "districtid": 52
+  },
+  {
+    "id": 506,
+    "name": "Keraniganj",
+    "localname": "Keraniganj",
+    "districtid": 52
+  },
+  {
+    "id": 507,
+    "name": "Khilgaon",
+    "localname": "Khilgaon",
+    "districtid": 52
+  },
+  {
+    "id": 508,
+    "name": "Khilkhet",
+    "localname": "Khilkhet",
+    "districtid": 52
+  },
+  {
+    "id": 509,
+    "name": "Kotwali",
+    "localname": "Kotwali",
+    "districtid": 52
+  },
+  {
+    "id": 510,
+    "name": "Lalbag",
+    "localname": "Lalbag",
+    "districtid": 52
+  },
+  {
+    "id": 511,
+    "name": "Mirpur Model",
+    "localname": "Mirpur Model",
+    "districtid": 52
+  },
+  {
+    "id": 512,
+    "name": "Mohammadpur",
+    "localname": "Mohammadpur",
+    "districtid": 52
+  },
+  {
+    "id": 513,
+    "name": "Motijheel",
+    "localname": "Motijheel",
+    "districtid": 52
+  },
+  {
+    "id": 514,
+    "name": "Mugda",
+    "localname": "Mugda",
+    "districtid": 52
+  },
+  {
+    "id": 515,
+    "name": "Nawabganj",
+    "localname": "Nawabganj",
+    "districtid": 52
+  },
+  {
+    "id": 516,
+    "name": "New Market",
+    "localname": "New Market",
+    "districtid": 52
+  },
+  {
+    "id": 517,
+    "name": "Pallabi",
+    "localname": "Pallabi",
+    "districtid": 52
+  },
+  {
+    "id": 518,
+    "name": "Paltan",
+    "localname": "Paltan",
+    "districtid": 52
+  },
+  {
+    "id": 519,
+    "name": "Ramna",
+    "localname": "Ramna",
+    "districtid": 52
+  },
+  {
+    "id": 520,
+    "name": "Rampura",
+    "localname": "Rampura",
+    "districtid": 52
+  },
+  {
+    "id": 521,
+    "name": "Rupnagar",
+    "localname": "Rupnagar",
+    "districtid": 52
+  },
+  {
+    "id": 522,
+    "name": "Sabujbag",
+    "localname": "Sabujbag",
+    "districtid": 52
+  },
+  {
+    "id": 523,
+    "name": "Savar",
+    "localname": "Savar",
+    "districtid": 52
+  },
+  {
+    "id": 524,
+    "name": "Shah Ali",
+    "localname": "Shah Ali",
+    "districtid": 52
+  },
+  {
+    "id": 525,
+    "name": "Shahbag",
+    "localname": "Shahbag",
+    "districtid": 52
+  },
+  {
+    "id": 526,
+    "name": "Shahjahanpur",
+    "localname": "Shahjahanpur",
+    "districtid": 52
+  },
+  {
+    "id": 527,
+    "name": "Sherebanglanagar",
+    "localname": "Sherebanglanagar",
+    "districtid": 52
+  },
+  {
+    "id": 528,
+    "name": "Shyampur",
+    "localname": "Shyampur",
+    "districtid": 52
+  },
+  {
+    "id": 529,
+    "name": "Sutrapur",
+    "localname": "Sutrapur",
+    "districtid": 52
+  },
+  {
+    "id": 530,
+    "name": "Tejgaon",
+    "localname": "Tejgaon",
+    "districtid": 52
+  },
+  {
+    "id": 531,
+    "name": "Tejgaon I/A",
+    "localname": "Tejgaon I/A",
+    "districtid": 52
+  },
+  {
+    "id": 532,
+    "name": "Turag",
+    "localname": "Turag",
+    "districtid": 52
+  },
+  {
+    "id": 533,
+    "name": "Uttara",
+    "localname": "Uttara",
+    "districtid": 52
+  },
+  {
+    "id": 534,
+    "name": "Uttara West",
+    "localname": "Uttara West",
+    "districtid": 52
+  },
+  {
+    "id": 535,
+    "name": "Uttarkhan",
+    "localname": "Uttarkhan",
+    "districtid": 52
+  },
+  {
+    "id": 536,
+    "name": "Vatara",
+    "localname": "Vatara",
+    "districtid": 52
+  },
+  {
+    "id": 537,
+    "name": "Wari",
+    "localname": "Wari",
+    "districtid": 52
+  },
+  {
+    "id": 538,
+    "name": "Airport",
+    "localname": "Airport",
+    "districtid": 22
+  },
+  {
+    "id": 539,
+    "name": "Kawnia",
+    "localname": "Kawnia",
+    "districtid": 22
+  },
+  {
+    "id": 540,
+    "name": "Bondor",
+    "localname": "Bondor",
+    "districtid": 22
+  },
+  {
+    "id": 541,
+    "name": "Boalia",
+    "localname": "Boalia",
+    "districtid": 8
+  },
+  {
+    "id": 542,
+    "name": "Motihar",
+    "localname": "Motihar",
+    "districtid": 8
+  },
+  {
+    "id": 543,
+    "name": "Shahmokhdum",
+    "localname": "Shahmokhdum",
+    "districtid": 8
+  },
+  {
+    "id": 544,
+    "name": "Rajpara",
+    "localname": "Rajpara",
+    "districtid": 8
+  },
+  {
+    "id": 545,
+    "name": "Akborsha",
+    "localname": "Akborsha",
+    "districtid": 30
+  },
+  {
+    "id": 546,
+    "name": "Baijid bostami",
+    "localname": "Baijid bostami",
+    "districtid": 30
+  },
+  {
+    "id": 547,
+    "name": "Bakolia",
+    "localname": "Bakolia",
+    "districtid": 30
+  },
+  {
+    "id": 548,
+    "name": "Bandar",
+    "localname": "Bandar",
+    "districtid": 30
+  },
+  {
+    "id": 549,
+    "name": "Chandgaon",
+    "localname": "Chandgaon",
+    "districtid": 30
+  },
+  {
+    "id": 550,
+    "name": "Chokbazar",
+    "localname": "Chokbazar",
+    "districtid": 30
+  },
+  {
+    "id": 551,
+    "name": "Doublemooring",
+    "localname": "Doublemooring",
+    "districtid": 30
+  },
+  {
+    "id": 552,
+    "name": "EPZ",
+    "localname": "EPZ",
+    "districtid": 30
+  },
+  {
+    "id": 553,
+    "name": "Hali Shohor",
+    "localname": "Hali Shohor",
+    "districtid": 30
+  },
+  {
+    "id": 554,
+    "name": "Kornafuli",
+    "localname": "Kornafuli",
+    "districtid": 30
+  },
+  {
+    "id": 555,
+    "name": "Kotwali",
+    "localname": "Kotwali",
+    "districtid": 30
+  },
+  {
+    "id": 556,
+    "name": "Kulshi",
+    "localname": "Kulshi",
+    "districtid": 30
+  },
+  {
+    "id": 557,
+    "name": "Pahartali",
+    "localname": "Pahartali",
+    "districtid": 30
+  },
+  {
+    "id": 558,
+    "name": "Panchlaish",
+    "localname": "Panchlaish",
+    "districtid": 30
+  },
+  {
+    "id": 559,
+    "name": "Potenga",
+    "localname": "Potenga",
+    "districtid": 30
+  },
+  {
+    "id": 560,
+    "name": "Shodhorgat",
+    "localname": "Shodhorgat",
+    "districtid": 30
+  },
+  {
+    "id": 561,
+    "name": "Aranghata",
+    "localname": "Aranghata",
+    "districtid": 46
+  },
+  {
+    "id": 562,
+    "name": "Daulatpur",
+    "localname": "Daulatpur",
+    "districtid": 46
+  },
+  {
+    "id": 563,
+    "name": "Harintana",
+    "localname": "Harintana",
+    "districtid": 46
+  },
+  {
+    "id": 564,
+    "name": "Horintana",
+    "localname": "Horintana",
+    "districtid": 46
+  },
+  {
+    "id": 565,
+    "name": "Khalishpur",
+    "localname": "Khalishpur",
+    "districtid": 46
+  },
+  {
+    "id": 566,
+    "name": "Khanjahan Ali",
+    "localname": "Khanjahan Ali",
+    "districtid": 46
+  },
+  {
+    "id": 567,
+    "name": "Khulna Sadar",
+    "localname": "Khulna Sadar",
+    "districtid": 46
+  },
+  {
+    "id": 568,
+    "name": "Labanchora",
+    "localname": "Labanchora",
+    "districtid": 46
+  },
+  {
+    "id": 569,
+    "name": "Sonadanga",
+    "localname": "Sonadanga",
+    "districtid": 46
+  },
+  {
+    "id": 570,
+    "name": "Airport",
+    "localname": "Airport",
+    "districtid": 41
+  },
+  {
+    "id": 571,
+    "name": "Hazrat Shah Paran",
+    "localname": "Hazrat Shah Paran",
+    "districtid": 41
+  },
+  {
+    "id": 572,
+    "name": "Jalalabad",
+    "localname": "Jalalabad",
+    "districtid": 41
+  },
+  {
+    "id": 573,
+    "name": "Kowtali",
+    "localname": "Kowtali",
+    "districtid": 41
+  },
+  {
+    "id": 574,
+    "name": "Moglabazar",
+    "localname": "Moglabazar",
+    "districtid": 41
+  },
+  {
+    "id": 575,
+    "name": "Osmani Nagar",
+    "localname": "Osmani Nagar",
+    "districtid": 41
+  },
+  {
+    "id": 576,
+    "name": "South Surma",
+    "localname": "South Surma",
+    "districtid": 41
+  },
+  {
+    "id": 577,
+    "name": "Fatullah",
+    "localname": "Fatullah",
+    "districtid": 59
+  },
+  {
+    "id": 578,
+    "name": "Tarakanda",
+    "localname": "Tarakanda",
+    "districtid": 20
+  },
+  {
+    "id": 579,
+    "name": "Gobindaganj",
+    "localname": "Gobindaganj",
+    "districtid": 15
+  },
+  {
+    "id": 580,
+    "name": "Bhujpur",
+    "localname": "Bhujpur",
+    "districtid": 30
+  },
+  {
+    "id": 581,
+    "name": "Guimara Upazila",
+    "localname": "Guimara Upazila",
+    "districtid": 34
+  },
+  {
+    "id": 582,
+    "name": "Kadamtali",
+    "localname": "Kadamtali",
+    "districtid": 52
+  },
+  {
+    "id": 583,
+    "name": "Shahporan",
+    "localname": "Shahporan",
+    "districtid": 41
+  },
+  {
+    "id": 584,
+    "name": "Ashulia",
+    "localname": "Ashulia",
+    "districtid": 52
+  },
+  {
+    "id": 585,
+    "name": "Sadar",
+    "localname": "Sadar",
+    "districtid": 8
+  },
+  {
+    "id": 586,
+    "name": "Dakshin Sunamganj",
+    "localname": "Dakshin Sunamganj",
+    "districtid": 40
+  },
+  {
+    "id": 587,
+    "name": "Kutubdia Upazila",
+    "localname": "Kutubdia Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 588,
+    "name": "Maheshkhali Upazila",
+    "localname": "Maheshkhali Upazila",
+    "districtid": 32
+  },
+  {
+    "id": 589,
+    "name": "Chandragonj",
+    "localname": "Chandragonj",
+    "districtid": 35
+  },
+  {
+    "id": 590,
+    "name": "Fulbari Upazila",
+    "localname": "Fulbari Upazila",
+    "districtid": 9
+  },
+  {
+    "id": 591,
+    "name": "Naldanga Upazila",
+    "localname": "Naldanga Upazila",
+    "districtid": 4
+  },
+  {
+    "id": 592,
+    "name": "Naragati",
+    "localname": "Naragati",
+    "districtid": 50
+  },
+  {
+    "id": 593,
+    "name": "Wazirpur Upazila",
+    "localname": "Wazirpur Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 594,
+    "name": "Mehendiganj Upazila",
+    "localname": "Mehendiganj Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 595,
+    "name": "Hizla Upazila",
+    "localname": "Hizla Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 596,
+    "name": "Gaurnadi Upazila",
+    "localname": "Gaurnadi Upazila",
+    "districtid": 22
+  },
+  {
+    "id": 597,
+    "name": "Tazumuddin Upazila",
+    "localname": "Tazumuddin Upazila",
+    "districtid": 23
+  },
+  {
+    "id": 598,
+    "name": "Manpura Upazila",
+    "localname": "Manpura Upazila",
+    "districtid": 23
+  }
+]

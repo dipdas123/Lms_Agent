@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item-->
+<!--        android:id="@+id/menu_home"-->
+<!--        android:title="Home"/>-->
+<!--    <item-->
+<!--        android:id="@+id/menu_profile"-->
+<!--        android:title="Profile"/>-->
+
+    <item
+        android:id="@+id/menu_installmentCheck"
+        android:title="Check Loan Status"/>
+
+    <item
+        android:id="@+id/menu_transaction_history"
+        android:visible="true"
+        android:title="Transaction History"/>
+
+    <item
+        android:id="@+id/menu_sales_report"
+        android:visible="true"
+        android:title="Sales Report"/>
+
+    <item
+        android:id="@+id/menu_change_password"
+        android:title="Password Change"/>
+
+<!--        <item-->
+<!--            android:id="@+id/menu_profile_update"-->
+<!--            android:title="Profile Update"/>-->
+<!--    <item-->
+<!--        android:id="@+id/menu_loan_list"-->
+<!--        android:title="Loan List"/>-->
+    <item
+        android:id="@+id/menu_faq"
+        android:visible="false"
+        android:title="FAQ"/>
+    <item
+        android:id="@+id/menu_help"
+        android:visible="false"
+        android:title="Help"/>
+
+    <item
+        android:id="@+id/menu_privacy_policy"
+        android:visible="false"
+        android:title="Privacy Policy"/>
+
+    <item
+        android:id="@+id/menu_termsAndConditions"
+        android:title="@string/terms_conditions"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:visible="true"
+        android:title="Log Out"/>
+
+</menu>
